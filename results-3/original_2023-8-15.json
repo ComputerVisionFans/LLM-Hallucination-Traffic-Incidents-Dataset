@@ -1,0 +1,106 @@
+{
+  "incidents": [
+    {
+      "title": "D: Traffic Accident Involving an External Party",
+      "description": "Due to an external traffic accident in the Zahnradbahnstraße area, line D is only operating between Absberggasse and Liechtenwerder Platz. The disruption is expected to last until 00:15.",
+      "start": "2023-08-15 23:37:31",
+      "end": "2023-08-15 23:59:01"
+    },
+    {
+      "title": "42: Wrongly Parked Vehicle",
+      "description": "Due to a wrongly parked vehicle at Kreuzgasse 21, line 42 is obstructed from continuing in the direction of Schottentor U. The disruption is expected to last until 19:00.",
+      "start": "2023-08-15 18:44:04",
+      "end": "2023-08-15 19:46:02"
+    },
+    {
+      "title": "26: Faulty Vehicle",
+      "description": "The tram line 26 can currently only operate irregularly in both directions due to a faulty vehicle.",
+      "start": "2023-08-15 18:38:38",
+      "end": "2023-08-15 20:39:02"
+    },
+    {
+      "title": "U4: Contamination",
+      "description": "Due to contamination at Längenfeldgasse U station, line U4 is obstructed from continuing in the direction of Hütteldorf. The end of the disruption is currently unforeseeable.",
+      "start": "2023-08-15 18:30:32",
+      "end": "2023-08-15 20:37:01"
+    },
+    {
+      "title": "57A: Police Operation",
+      "description": "The bus line 57A can currently only operate irregularly in both directions due to a police operation.",
+      "start": "2023-08-15 17:03:37",
+      "end": "2023-08-15 18:30:02"
+    },
+    {
+      "title": "U1: Delays",
+      "description": "The subway line U1 can currently only operate irregularly in both directions due to an operational disturbance.",
+      "start": "2023-08-15 16:38:05",
+      "end": "2023-08-15 17:25:01"
+    },
+    {
+      "title": "60: Overhead Line Fault",
+      "description": "Due to an overhead line fault in the Geßlgasse 9 area, line 60 is only operating between Westbahnhof S U and Hofwiesengasse. Please use line 60A as an alternative. The end of the disruption is currently unforeseeable.",
+      "start": "2023-08-15 16:28:59",
+      "end": "2023-08-15 20:19:01"
+    },
+    {
+      "title": "30A, 36B: Emergency Response",
+      "description": "Due to an emergency response in Justgasse, lines 30A towards Stammersdorfer Freiheitsplatz and 36B towards Bellgasse are obstructed from continuing. The disruption is expected to last until 14:45.",
+      "start": "2023-08-15 14:23:51",
+      "end": "2023-08-15 16:28:01"
+    },
+    {
+      "title": "U1: Emergency Response",
+      "description": "Due to an emergency response, the trains of line U1 between Keplerplatz U and Südtiroler Platz - Hauptbahnhof S U are being routed over track 2. The disruption is expected to last until 14:30.",
+      "start": "2023-08-15 13:59:15",
+      "end": "2023-08-15 14:55:01"
+    },
+    {
+      "title": "2: Traffic Accident",
+      "description": "Due to a traffic accident in the Wilhelminenstraße area, line 2 is obstructed from continuing in the direction of Friedrich-Engels-Platz. The disruption is expected to last until 14:10.",
+      "start": "2023-08-15 13:55:15",
+      "end": "2023-08-15 16:27:02"
+    },
+    {
+      "title": "66A: Faulty Vehicle",
+      "description": "The bus line 66A can currently only operate irregularly in both directions due to a faulty vehicle.",
+      "start": "2023-08-15 13:35:49",
+      "end": "2023-08-15 14:45:01"
+    },
+    {
+      "title": "68A, 68B: Wrongly Parked Vehicle",
+      "description": "Due to a wrongly parked vehicle at Waldgasse 32, lines 68A, 68B are obstructed from continuing in the direction of Reumannplatz U. The disruption is expected to last until 12:20.",
+      "start": "2023-08-15 11:57:32",
+      "end": "2023-08-15 13:08:01"
+    },
+    {
+      "title": "D, 5, 33: Police Operation",
+      "description": "Due to a police operation at Julius-Tandler-Platz, lines D towards Nußdorf, 5 towards Westbahnhof, and 33 towards Augasse are obstructed from continuing. The disruption is expected to last until 11:00.",
+      "start": "2023-08-15 10:44:48",
+      "end": "2023-08-15 11:59:01"
+    },
+    {
+      "title": "U6: Emergency Response",
+      "description": "Due to an emergency response, the trains of line U6 between Josefstädter Straße U and Alser Straße U are being routed over track 1. The disruption is expected to last until 11:00.",
+      "start": "2023-08-15 10:34:57",
+      "end": "2023-08-15 11:34:02"
+    },
+    {
+      "title": "30A: Emergency Response",
+      "description": "Due to an emergency response at the Bernreiterplatz stop, line 30A is obstructed from continuing in the direction of Neu Leopoldau. The disruption is expected to last until 09:30.",
+      "start": "2023-08-15 09:05:38",
+      "end": "2023-08-15 12:01:01"
+    },
+    {
+      "title": "14A: Fire Brigade Operation",
+      "description": "Following a traffic obstruction, varying intervals are occurring on line 14A.",
+      "start": "2023-08-15 07:02:09",
+      "end": "2023-08-15 08:13:01"
+    },
+    {
+      "title": "U6: Delays",
+      "description": "The subway line U6 can currently only operate irregularly in both directions due to a faulty vehicle.",
+      "start": "2023-08-15 04:39:56",
+      "end": "2023-08-15 05:15:01"
+    }
+  ]
+}

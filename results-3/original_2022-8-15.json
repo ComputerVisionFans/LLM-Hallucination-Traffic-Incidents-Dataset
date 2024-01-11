@@ -1,0 +1,124 @@
+{
+  "incidents": [
+    {
+      "title": "31 Traffic Accident Involving an External Party",
+      "description": "Following a traffic obstruction, varying intervals are occurring on line 31.",
+      "start": "2022-08-15 23:20:46",
+      "end": "2022-08-15 23:59:01"
+    },
+    {
+      "title": "6: Police Operation",
+      "description": "Tram line 6 is currently only able to operate irregularly in both directions due to a police operation.",
+      "start": "2022-08-15 21:02:00",
+      "end": "2022-08-15 22:17:01"
+    },
+    {
+      "title": "2 Traffic Accident",
+      "description": "Due to a traffic accident in the Schubertring # Johannesgasse area, line 2 is obstructed from continuing in the direction of Friedrich-Engels-Platz. The disruption is expected to last until 18:20.",
+      "start": "2022-08-15 18:01:14",
+      "end": "2022-08-15 19:38:01"
+    },
+    {
+      "title": "12A Traffic Accident Involving an External Party",
+      "description": "Due to an external traffic accident in the Minciostraße area, line 12A is obstructed from continuing in the direction of Schmelz, Gablenzgasse. The disruption is expected to last until 17:40.",
+      "start": "2022-08-15 17:22:14",
+      "end": "2022-08-15 19:22:02"
+    },
+    {
+      "title": "42 Wrongly Parked Vehicle",
+      "description": "Due to a wrongly parked vehicle in the Kreuzgasse area, line 42 is obstructed from continuing in the direction of Antonigasse. The disruption is expected to last until 16:10.",
+      "start": "2022-08-15 15:49:39",
+      "end": "2022-08-15 17:22:01"
+    },
+    {
+      "title": "U2: Signal Box Malfunction",
+      "description": "Due to a signal box malfunction, or for damage repair, operation of line U2 between Donaustadtbrücke and Aspernstraße is currently not possible in both directions. The disruption is expected to last until 13:10, we recommend waiting out the disruption for the time being.",
+      "start": "2022-08-15 13:00:20",
+      "end": "2022-08-15 13:54:01"
+    },
+    {
+      "title": "U4: Police Operation",
+      "description": "Due to a police operation at Pilgramgasse U station, line U4 is obstructed from continuing in both directions. The disruption is expected to last until 12:55.",
+      "start": "2022-08-15 12:46:46",
+      "end": "2022-08-15 13:21:01"
+    },
+    {
+      "title": "U3: Operational Disturbance",
+      "description": "Due to an operational disturbance at Kendlerstraße U station, line U3 is obstructed from continuing in the direction of Ottakring. The disruption is expected to last until 12:30.",
+      "start": "2022-08-15 12:09:27",
+      "end": "2022-08-15 13:22:02"
+    },
+    {
+      "title": "U3: Delays",
+      "description": "The subway line U3 can currently only operate irregularly in both directions due to an operational disturbance.",
+      "start": "2022-08-15 12:08:04",
+      "end": "2022-08-15 12:11:01"
+    },
+    {
+      "title": "U2: Signal Box Malfunction",
+      "description": "Due to a signal box malfunction at Donaumarina U station, line U2 is currently only running between Schottentor and Stadion U or Donaustadtbrücke U and Aspernstraße. Please use lines U1, U6, S-Bahn, 11A and 77A as alternatives. The end of the disruption is currently unforeseeable.",
+      "start": "2022-08-15 11:35:50",
+      "end": "2022-08-15 13:01:01"
+    },
+    {
+      "title": "U6: Police Operation",
+      "description": "Due to a police operation, the trains of line U6 between Josefstädter Straße U and Alser Straße U are being routed over track 1. The disruption is expected to last until 11:30.",
+      "start": "2022-08-15 11:11:48",
+      "end": "2022-08-15 12:05:01"
+    },
+    {
+      "title": "4A: Faulty Vehicle",
+      "description": "The bus line 4A can currently only operate irregularly in both directions due to a faulty vehicle.",
+      "start": "2022-08-15 11:04:01",
+      "end": "2022-08-15 12:00:01"
+    },
+    {
+      "title": "U2: Delays",
+      "description": "The subway line U2 can currently only operate irregularly in both directions.",
+      "start": "2022-08-15 09:32:07",
+      "end": "2022-08-15 11:35:02"
+    },
+    {
+      "title": "18: Delays",
+      "description": "The tram line 18 can currently only operate irregularly in both directions.",
+      "start": "2022-08-15 08:33:07",
+      "end": "2022-08-15 10:28:01"
+    },
+    {
+      "title": "U2Z Faulty Vehicle",
+      "description": "Due to a faulty train in the Schottenring # Wipplingerstraße area, lines U2Z, 1, and D are obstructed from continuing towards Schottenring / Prater Hauptallee / Nußdorf. The disruption is expected to last until 08:45.",
+      "start": "2022-08-15 08:19:55",
+      "end": "2022-08-15 09:44:01"
+    },
+    {
+      "title": "66A Emergency Response",
+      "description": "Due to an emergency response in the Mehlführergasse # Anton-Krieger-Gasse area, line 66A is obstructed from continuing in the direction of Reumannplatz U. The disruption is expected to last until 08:30.",
+      "start": "2022-08-15 08:10:57",
+      "end": "2022-08-15 10:26:01"
+    },
+    {
+      "title": "U4: Emergency Response",
+      "description": "Due to an emergency response, the trains of line U4 between Schönbrunn U and Hietzing U are being routed over track 1. The disruption is expected to last until 07:15.",
+      "start": "2022-08-15 06:50:17",
+      "end": "2022-08-15 12:05:01"
+    },
+    {
+      "title": "N65: Delays",
+      "description": "The bus line N65 can currently only operate irregularly in both directions.",
+      "start": "2022-08-15 02:41:16",
+      "end": "2022-08-15 04:11:01"
+    },
+    {
+      "title": "N6: Delays",
+      "description": "The bus line N6 can currently only operate irregularly in both directions.",
+      "start": "2022-08-15 01:32:36",
+      "end": "2022-08-15 02:28:01"
+    },
+    {
+      "title": "N90 Operational Disturbance",
+      "description": "Due to an operational disturbance, operation of line N90 is currently not possible. The disruption is expected to last until the end of service.",
+      "start": "2022-08-15 00:59:26",
+      "end": "2022-08-15 05:00:01"
+    }
+  ]
+}

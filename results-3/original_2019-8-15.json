@@ -1,0 +1,82 @@
+{
+  "incidents": [
+    {
+      "title": "31: Police Operation",
+      "description": "Due to a police operation in the Shuttleworthstraße stop area, line 31 in the direction of Schottenring U is prevented from continuing. The disruption is expected to last until 11:30 p.m.!",
+      "start": "2019-08-15 23:09:00",
+      "end": "2019-08-16 00:00:00"
+    },
+    {
+      "title": "31: Traffic Accident",
+      "description": "Due to a traffic accident in the area of Klosterneuburger Straße # Spaungasse, line 31 in the direction of Stammersdorf is redirected via Jägerstraße between Gaußplatz and Jägerstraße U. The disruption is expected to last until 10:25 p.m.!",
+      "start": "2019-08-15 22:01:00",
+      "end": "2019-08-15 23:22:00"
+    },
+    {
+      "title": "U4: Police Operation",
+      "description": "Due to a police operation in the Hietzing U stop area, the U4 line is prevented from continuing in both directions. The end of the disruption is currently not foreseeable.",
+      "start": "2019-08-15 21:32:00",
+      "end": "2019-08-15 22:31:00"
+    },
+    {
+      "title": "66A: Traffic-Related Delays",
+      "description": "Due to traffic congestion, bus route 66A can currently only run irregularly in both directions.",
+      "start": "2019-08-15 19:45:00",
+      "end": "2019-08-15 20:25:00"
+    },
+    {
+      "title": "10: Traffic Accident",
+      "description": "Due to a traffic accident in the Breitenseer Straße 16 area, line 10 in the direction of Dornbach is prevented from continuing. The end of the disruption is currently not foreseeable.",
+      "start": "2019-08-15 18:08:00",
+      "end": "2019-08-15 20:00:00"
+    },
+    {
+      "title": "5, 33: Police Operation",
+      "description": "Due to a police operation in the Friedensbrücke U stop area, lines 5, 33 in the direction of Praterstern S U and Friedrich-Engels-Platz are prevented from continuing their journey. The disruption is expected to last until 6:00 p.m.!",
+      "start": "2019-08-15 17:34:00",
+      "end": "2019-08-15 20:01:00"
+    },
+    {
+      "title": "49: Parking Illegally",
+      "description": "Due to illegal parking in the Huglgasse area, line 49 in the direction of Ring, Volkstheater is prevented from continuing. The disruption is expected to last until 5:20 p.m.!",
+      "start": "2019-08-15 16:57:00",
+      "end": "2019-08-15 18:30:00"
+    },
+    {
+      "title": "49: Fire Brigade Operation",
+      "description": "Tram line 49 can currently only run irregularly in both directions due to a fire brigade operation.",
+      "start": "2019-08-15 14:26:00",
+      "end": "2019-08-15 15:00:00"
+    },
+    {
+      "title": "9, 49: Fire Brigade Operation",
+      "description": "Due to a fire brigade operation in Märzstraße 50, line 9 currently only runs between Westbahnhof and Schweglerstraße; the trains continue to Breitensee or between Johann-Nepomuk-Berger-Platz and Gersthof. Alternatively, use lines U3, 2, 43, 10A. The disruption is expected to last until 3:00 p.m.!",
+      "start": "2019-08-15 14:00:00",
+      "end": "2019-08-15 18:03:00"
+    },
+    {
+      "title": "10: Rescue Operation",
+      "description": "Due to a rescue operation in the connecting line stop area, line 10 is prevented from continuing in both directions. The disruption is expected to last until 11:45 a.m.!",
+      "start": "2019-08-15 11:30:00",
+      "end": "2019-08-15 12:47:00"
+    },
+    {
+      "title": "1, VRT, D, 71: Construction Work",
+      "description": "Due to construction work on the Ringstrasse, it is not possible to operate tram line 1 between the stock exchange and the opera, Karlsplatz. Line D will operate in both directions between Schwarzenbergplatz and Börse, redirected over the quay. The tram line 71 in the direction of Börse only runs to Ring, Volkstheater. The Vienna Ring Tram is not available. Please switch to the U2 subway line. The construction work will last until closing time on Sunday.",
+      "start": "2019-08-15 04:07:00",
+      "end": "2019-08-19 01:01:00"
+    },
+    {
+      "title": "13A: Police Operation",
+      "description": "Due to a police operation in the Neubaugasse area, line 13A in the direction of the main station S U is prevented from continuing its journey. The disruption is expected to last until 12:50 a.m.!",
+      "start": "2019-08-15 00:36:00",
+      "end": "2019-08-15 00:51:00"
+    },
+    {
+      "title": "66A: Rescue Operation",
+      "description": "Due to a rescue operation in the Mehlführergasse # Anton-Krieger-Gasse area, line 66A in the direction of Reumannplatz U is prevented from continuing its journey. The disruption is expected to last until 12:40 a.m.!",
+      "start": "2019-08-15 00:17:00",
+      "end": "2019-08-15 05:26:00"
+    }
+  ]
+}

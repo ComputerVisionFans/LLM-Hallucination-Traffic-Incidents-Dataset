@@ -1,0 +1,94 @@
+{
+  "incidents": [
+    {
+      "title": "67B: Faulty Vehicle",
+      "description": "Due to a faulty vehicle, operation of line 67B is currently not possible. The disruption is expected to last until the end of service!",
+      "start": "2020-08-15 21:32:59",
+      "end": "2020-08-15 23:21:01"
+    },
+    {
+      "title": "66A: Traffic Accident",
+      "description": "The bus line 66A can currently only operate irregularly in both directions due to a traffic accident.",
+      "start": "2020-08-15 20:26:11",
+      "end": "2020-08-15 22:01:01"
+    },
+    {
+      "title": "42: Traffic-Related Delays",
+      "description": "The tram line 42 can currently only operate irregularly in both directions due to traffic congestion.",
+      "start": "2020-08-15 18:18:50",
+      "end": "2020-08-15 18:21:02"
+    },
+    {
+      "title": "2: Fire Brigade Operation",
+      "description": "Due to a fire brigade operation in the area of Josefstädter Straße 48, line 2 is obstructed from continuing in both directions. The end of the disruption is currently unforeseeable.",
+      "start": "2020-08-15 17:17:54",
+      "end": "2020-08-15 23:59:01"
+    },
+    {
+      "title": "46: Traffic Accident Involving an External Party",
+      "description": "Due to an external traffic accident in the Thaliastraße # Blumberggasse area, line 46 is obstructed from continuing in both directions. The disruption is expected to last until 12:00.",
+      "start": "2020-08-15 11:31:18",
+      "end": "2020-08-15 13:24:01"
+    },
+    {
+      "title": "5B: Faulty Vehicle",
+      "description": "The bus line 5B can currently only operate irregularly in both directions due to a traffic disturbance.",
+      "start": "2020-08-15 11:25:21",
+      "end": "2020-08-15 11:43:02"
+    },
+    {
+      "title": "59A: Faulty Vehicle",
+      "description": "The bus line 59A can currently only operate irregularly in both directions due to a traffic disturbance.",
+      "start": "2020-08-15 11:16:45",
+      "end": "2020-08-15 12:14:02"
+    },
+    {
+      "title": "U4: Delays",
+      "description": "The line U4 can currently only operate irregularly.",
+      "start": "2020-08-15 09:01:10",
+      "end": "2020-08-15 12:37:02"
+    },
+    {
+      "title": "5A: Police Operation",
+      "description": "Due to a police operation in the Griegstraße stop area, line 5A is obstructed from continuing in the direction of Gaußplatz. The disruption is expected to last until 08:00.",
+      "start": "2020-08-15 07:41:53",
+      "end": "2020-08-15 10:39:02"
+    },
+    {
+      "title": "71: Faulty Vehicle",
+      "description": "The tram line 71 can currently only operate irregularly in both directions due to a traffic disturbance.",
+      "start": "2020-08-15 07:12:58",
+      "end": "2020-08-15 07:38:01"
+    },
+    {
+      "title": "O: Faulty Vehicle",
+      "description": "The tram line O can currently only operate irregularly in both directions due to a traffic disturbance.",
+      "start": "2020-08-15 06:18:40",
+      "end": "2020-08-15 07:01:02"
+    },
+    {
+      "title": "61A: Wrongly Parked Vehicle",
+      "description": "Due to a wrongly parked vehicle in the Karl-Tornay-Gasse area, line 61A is obstructed from continuing in the direction of Liesing S. The disruption is expected to last until 06:20.",
+      "start": "2020-08-15 05:52:30",
+      "end": "2020-08-15 06:51:02"
+    },
+    {
+      "title": "1: Traffic Accident",
+      "description": "Due to a traffic accident in the Rotundenbrücke area, tram line 1 is currently only operating between Stefan-Fadinger-Platz and Radetzkyplatz. The trains are being routed via the line O route to Praterstern S U. The bus line 4A is currently only operating between Karlsplatz U and Rasumofskygasse. The end of the disruption is currently unforeseeable!",
+      "start": "2020-08-15 05:45:36",
+      "end": "2020-08-15 09:33:01"
+    },
+    {
+      "title": "37, 38, 40, 41, 42: Faulty Vehicle",
+      "description": "Due to a faulty train in Währinger Straße, tram line 37 is only operating between Hohe Warte and Nußdorfer Straße U. Line 38 is only operating between Grinzing and Spitalgasse and is further routed via the route of lines 5 and 43 to Zimmermannplatz. Tram lines 40, 41, and 42 in the direction of Schottentor U from Währinger Straße, Volksoper are being rerouted via Währinger Gürtel to Marsanogasse or Sternwartestraße. Please use bus line 40A, the U6, and tram lines 43 and 44. The disruption is expected to last until 06:00.",
+      "start": "2020-08-15 05:42:38",
+      "end": "2020-08-15 06:36:02"
+    },
+    {
+      "title": "U3: Police Operation",
+      "description": "Following a traffic obstruction, varying intervals are occurring on line U3.",
+      "start": "2020-08-15 04:57:27",
+      "end": "2020-08-15 12:39:02"
+    }
+  ]
+}

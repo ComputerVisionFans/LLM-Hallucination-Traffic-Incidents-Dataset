@@ -1,0 +1,70 @@
+{
+  "incidents": [
+    {
+      "title": "O Fire Brigade Operation",
+      "description": "Due to a fire brigade operation in the Bruno-Marek-Allee area, line O is obstructed from continuing in the direction of Quellenplatz. The disruption is expected to last until 00:10.",
+      "start": "2021-08-15 23:55:48",
+      "end": "2021-08-16 00:30:01"
+    },
+    {
+      "title": "O Fire Brigade Operation",
+      "description": "Due to a fire brigade operation in the Ungargasse 42 area, line O is obstructed from continuing in the direction of Bruno-Marek-Allee. The disruption is expected to last until 23:50.",
+      "start": "2021-08-15 23:33:49",
+      "end": "2021-08-15 23:56:01"
+    },
+    {
+      "title": "12A Emergency Response",
+      "description": "Due to an emergency response in the Mariahilfer Straße # Geibelgasse area, line 12A is obstructed from continuing in the direction of Schmelz, Gablenzgasse. The disruption is expected to last until 23:40.",
+      "start": "2021-08-15 23:21:29",
+      "end": "2021-08-15 23:31:02"
+    },
+    {
+      "title": "60 Fire Brigade Operation",
+      "description": "Due to a fire brigade operation in the Preyergasse area, line 60 is currently only operating between Westbahnhof S U and Hietzing U or Hofwiesengasse and Rodaun. Please use lines 56A and 56B as alternatives. The end of the disruption is currently unforeseeable.",
+      "start": "2021-08-15 17:42:16",
+      "end": "2021-08-15 19:18:01"
+    },
+    {
+      "title": "2 Traffic Accident",
+      "description": "Due to a traffic accident in the Marienbrücke stop area, line 2 is obstructed from continuing in the direction of Dornbach. The disruption is expected to last until 13:20.",
+      "start": "2021-08-15 12:57:11",
+      "end": "2021-08-15 15:06:01"
+    },
+    {
+      "title": "2 Emergency Response",
+      "description": "Due to an emergency response in the Römergasse stop area, line 2 is obstructed from continuing in the direction of Friedrich-Engels-Platz. The disruption is expected to last until 06:40.",
+      "start": "2021-08-15 06:24:54",
+      "end": "2021-08-15 07:43:01"
+    },
+    {
+      "title": "5 Wrongly Parked Vehicle",
+      "description": "Due to a wrongly parked vehicle in the Blindengasse 13 area, line 5 is obstructed from continuing in the direction of Praterstern S U. The disruption is expected to last until 06:20.",
+      "start": "2021-08-15 05:57:44",
+      "end": "2021-08-15 07:45:01"
+    },
+    {
+      "title": "98A: Delays",
+      "description": "The bus line 98A can currently only operate irregularly in both directions.",
+      "start": "2021-08-15 04:59:00",
+      "end": "2021-08-15 05:21:02"
+    },
+    {
+      "title": "49: Fire Brigade Operation",
+      "description": "Due to a fire brigade operation in the Hütteldorfer Straße # Ameisbachzeile area, line 49 is only operating between Ring, Volkstheater U and Breitensee S. The end of the disruption is currently unforeseeable.",
+      "start": "2021-08-15 04:50:54",
+      "end": "2021-08-15 09:43:01"
+    },
+    {
+      "title": "N49 Fire Brigade Operation",
+      "description": "Due to a fire brigade operation in the Hütteldorfer Straße # Ameisbachzeile area, line N49 is obstructed from continuing in the direction of Hütteldorfer Straße U. The end of the disruption is currently unforeseeable.",
+      "start": "2021-08-15 02:52:40",
+      "end": "2021-08-15 05:18:01"
+    },
+    {
+      "title": "U2z Emergency Response",
+      "description": "Due to an emergency response at Dr.-Karl-Renner-Ring, lines 1 and D towards Marsanogasse, line 2 towards Dornbach, and line U2Z towards Schottenring are obstructed from continuing. The disruption is expected to last until 01:00.",
+      "start": "2021-08-15 00:20:08",
+      "end": "2021-08-15 02:01:01"
+    }
+  ]
+}
