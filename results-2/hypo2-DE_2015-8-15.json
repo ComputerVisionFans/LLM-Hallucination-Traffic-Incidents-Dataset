@@ -1,0 +1,46 @@
+{
+    "incidents": [
+        {
+            "title": "5 : Falschparker",
+            "description": "Wegen eines Falschparkers im Bereich Blindengasse fÃ¤hrt die Linie 5 nur zwischen Praterstern S U und JosefstÃ¤dter StraÃe U. Ersatzweise benÃ¼tzen Sie bitte die Linie U6 .",
+            "start": "22 Uhr 54 Minuten 00 Sekunden am 15. August 2015",
+            "end": "00 Uhr 00 Minuten 00 Sekunden am 16. August 2015"
+        },
+        {
+            "title": "38 : Verkehrsunfall",
+            "description": "Wegen eines Verkehrsunfalls im Bereich BillrothstraÃe fÃ¤hrt die Linie 38 nur zwischen Schottentor U und Hohe Warte.",
+            "start": "21 Uhr 57 Minuten 00 Sekunden am 15. August 2015",
+            "end": "00 Uhr 00 Minuten 00 Sekunden am 16. August 2015"
+        },
+        {
+            "title": "40 , 41 : Feuerwehreinsatz",
+            "description": "Wegen eines Feuerwehreinsatzes im Bereich WÃ¤hringer StraÃe MartinstraÃe werden die Linien 40 und 41 zwischen WÃ¤hringer StraÃe, Volksoper U und Gersthof S Ã¼ber die Linien 42+9 umgeleitet.",
+            "start": "21 Uhr 51 Minuten 00 Sekunden am 15. August 2015",
+            "end": "00 Uhr 00 Minuten 00 Sekunden am 16. August 2015"
+        },
+        {
+            "title": "49 : Verkehrsunfall",
+            "description": "Wegen eines Verkehrsunfalls im Bereich WestbahnstraÃe fÃ¤hrt die Linie 49 nur zwischen Baumgarten und Urban-Loritz-Platz.",
+            "start": "21 Uhr 34 Minuten 00 Sekunden am 15. August 2015",
+            "end": "00 Uhr 00 Minuten 00 Sekunden am 16. August 2015"
+        },
+        {
+            "title": "1 : Falschparker",
+            "description": "Derzeit kommt es auf der Linie 1 zu unterschiedlichen Intervallen.",
+            "start": "19 Uhr 27 Minuten 00 Sekunden am 15. August 2015",
+            "end": "00 Uhr 00 Minuten 00 Sekunden am 16. August 2015"
+        },
+        {
+            "title": "67 : Polizeieinsatz",
+            "description": "Derzeit kommt es auf der Linie 67 zu unterschiedlichen Intervallen.",
+            "start": "10 Uhr 21 Minuten 00 Sekunden am 15. August 2015",
+            "end": "00 Uhr 00 Minuten 00 Sekunden am 16. August 2015"
+        },
+        {
+            "title": "N62: Schadhaftes Fahrzeug",
+            "description": "Die Autobuslinie N62 kann wegen einer VerkehrsstÃ¶rung derzeit in beiden Richtungen nur unregelmÃ¤Ãig fahren.",
+            "start": "02 Uhr 22 Minuten 00 Sekunden am 15. August 2015",
+            "end": "00 Uhr 00 Minuten 00 Sekunden am 16. August 2015"
+        }
+    ]
+}

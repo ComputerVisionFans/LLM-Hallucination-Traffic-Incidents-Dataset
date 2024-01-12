@@ -1,0 +1,82 @@
+{
+    "incidents": [
+        {
+            "title": "31 : Polizeieinsatz",
+            "description": "Wegen eines Polizeieinsatzes im Haltestellenbereich ShuttleworthstraÃe ist die Linie 31 in Fahrtrichtung Schottenring U an der Weiterfahrt gehindert. Die StÃ¶rung dauert voraussichtlich bis 23 Uhr 30 Minuten 00 Sekunden!",
+            "start": "23 Uhr 09 Minuten 00 Sekunden am 15. August 2019",
+            "end": "00 Uhr 00 Minuten 00 Sekunden am 16. August 2019"
+        },
+        {
+            "title": "31 : Verkehrsunfall",
+            "description": "Wegen eines Verkehrsunfalls im Bereich Klosterneuburger StraÃe # Spaungasse wird die Linie 31 in Fahrtrichtung Stammersdorf zwischen GauÃplatz und JÃ¤gerstraÃe U Ã¼ber die JÃ¤gerstraÃe umgeleitet. Die StÃ¶rung dauert voraussichtlich bis 22 Uhr 25 Minuten 00 Sekunden!",
+            "start": "22 Uhr 01 Minuten 00 Sekunden am 15. August 2019",
+            "end": "23 Uhr 22 Minuten 00 Sekunden am 15. August 2019"
+        },
+        {
+            "title": "U4 : Polizeieinsatz",
+            "description": "Wegen eines Polizeieinsatzes im Haltestellenbereich Hietzing U ist die Linie U4 in beiden Fahrtrichtungen an der Weiterfahrt gehindert. Das StÃ¶rungsende ist derzeit nicht absehbar.",
+            "start": "21 Uhr 32 Minuten 00 Sekunden am 15. August 2019",
+            "end": "22 Uhr 31 Minuten 00 Sekunden am 15. August 2019"
+        },
+        {
+            "title": "66A : Verkehrsbedingte VerspÃ¤tungen",
+            "description": "Die Autobuslinie 66A kann wegen VerkehrsÃ¼berlastung derzeit in beiden Richtungen nur unregelmÃ¤Ãig fahren.",
+            "start": "19 Uhr 45 Minuten 00 Sekunden am 15. August 2019",
+            "end": "20 Uhr 25 Minuten 00 Sekunden am 15. August 2019"
+        },
+        {
+            "title": "10 : Verkehrsunfall",
+            "description": "Wegen eines Verkehrsunfalls im Bereich Breitenseer StraÃe 16 ist die Linie 10 in Fahrtrichtung Dornbach an der Weiterfahrt gehindert. Das StÃ¶rungsende ist derzeit nicht absehbar.",
+            "start": "18 Uhr 08 Minuten 00 Sekunden am 15. August 2019",
+            "end": "20 Uhr 00 Minuten 00 Sekunden am 15. August 2019"
+        },
+        {
+            "title": "5 , 33 : Polizeieinsatz",
+            "description": "Wegen eines Polizeieinsatzes im Haltestellenbereich FriedensbrÃ¼cke U sind die Linien 5 , 33 in Fahrtrichtung Praterstern S U bzw. Friedrich-Engels-Platz an der Weiterfahrt gehindert. Die StÃ¶rung dauert voraussichtlich bis 18 Uhr 00 Minuten 00 Sekunden!",
+            "start": "17 Uhr 34 Minuten 00 Sekunden am 15. August 2019",
+            "end": "20 Uhr 01 Minuten 00 Sekunden am 15. August 2019"
+        },
+        {
+            "title": "49 : Falschparker",
+            "description": "Wegen eines Falschparkers im Bereich Huglgasse ist die Linie 49 in Fahrtrichtung Ring, Volkstheater an der Weiterfahrt gehindert. Die StÃ¶rung dauert voraussichtlich bis 17 Uhr 20 Minuten 00 Sekunden!",
+            "start": "16 Uhr 57 Minuten 00 Sekunden am 15. August 2019",
+            "end": "18 Uhr 30 Minuten 00 Sekunden am 15. August 2019"
+        },
+        {
+            "title": "49 : Feuerwehreinsatz",
+            "description": "Die StraÃenbahnlinie 49 kann wegen eines Feuerwehreinsatzes derzeit in beiden Richtungen nur unregelmÃ¤Ãig fahren.",
+            "start": "14 Uhr 26 Minuten 00 Sekunden am 15. August 2019",
+            "end": "15 Uhr 00 Minuten 00 Sekunden am 15. August 2019"
+        },
+        {
+            "title": "9 , 49 : Feuerwehreinsatz",
+            "description": "Wegen eines Feuerwehreinsatzes im Bereich MÃ¤rzstraÃe 50 fÃ¤hrt die Linie 9 derzeit nur zwischen Westbahnhof und SchweglerstraÃe, die ZÃ¼ge werden weiter bis Breitensee gefÃ¼hrt bzw. zwischen Johann-Nepomuk-Berger-Platz und Gersthof. Ersatzweise benÃ¼tzen Sie die Linien U3, 2, 43, 10A. Die StÃ¶rung dauert voraussichtlich bis 15 Uhr 00 Minuten 00 Sekunden!",
+            "start": "14 Uhr 00 Minuten 00 Sekunden am 15. August 2019",
+            "end": "18 Uhr 03 Minuten 00 Sekunden am 15. August 2019"
+        },
+        {
+            "title": "10 : Rettungseinsatz",
+            "description": "Wegen eines Rettungseinsatzes im Haltestellenbereich Verbindungsbahn ist die Linie 10 in beiden Fahrtrichtungen an der Weiterfahrt gehindert. Die StÃ¶rung dauert voraussichtlich bis 11 Uhr 45 Minuten 00 Sekunden!",
+            "start": "11 Uhr 30 Minuten 00 Sekunden am 15. August 2019",
+            "end": "12 Uhr 47 Minuten 00 Sekunden am 15. August 2019"
+        },
+        {
+            "title": "1, VRT, D , 71 : Bauarbeiten",
+            "description": "Wegen Bauarbeiten auf der RingstraÃe ist ein Fahrbetrieb der StraÃenbahnlinie 1 zwischen BÃ¶rse und Oper, Karlsplatz nicht mÃ¶glich. Die Linie D wird in beiden Fahrtrichtungen zwischen Schwarzenbergplatz und BÃ¶rse Ã¼ber den Kai umgeleitet. Die StraÃenbahnlinie 71 fÃ¤hrt in Fahrtrichtung BÃ¶rse nur bis Ring, Volkstheater. Ein Betrieb der Vienna Ring Tram ist nicht mÃ¶glich. Weichen Sie bitte auf die U-Bahnlinie U2 aus. Die Bauarbeiten dauern bis Sonntag Betriebsschluss.",
+            "start": "04 Uhr 07 Minuten 00 Sekunden am 15. August 2019",
+            "end": "01 Uhr 01 Minuten 00 Sekunden am 19. August 2019"
+        },
+        {
+            "title": "13A : Polizeieinsatz",
+            "description": "Wegen eines Polizeieinsatzes im Bereich Neubaugasse ist die Linie 13A in Fahrtrichtung Hauptbahnhof S U an der Weiterfahrt gehindert. Die StÃ¶rung dauert voraussichtlich bis 00 Uhr 50 Minuten 00 Sekunden!",
+            "start": "00 Uhr 36 Minuten 00 Sekunden am 15. August 2019",
+            "end": "00 Uhr 51 Minuten 00 Sekunden am 15. August 2019"
+        },
+        {
+            "title": "66A : Rettungseinsatz",
+            "description": "Wegen eines Rettungseinsatzes im Bereich MehlfÃ¼hrergasse # Anton-Krieger-Gasse ist die Linie 66A in Fahrtrichtung Reumannplatz U an der Weiterfahrt gehindert. Die StÃ¶rung dauert voraussichtlich bis 00 Uhr 40 Minuten 00 Sekunden!",
+            "start": "00 Uhr 17 Minuten 00 Sekunden am 15. August 2019",
+            "end": "05 Uhr 26 Minuten 00 Sekunden am 15. August 2019"
+        }
+    ]
+}

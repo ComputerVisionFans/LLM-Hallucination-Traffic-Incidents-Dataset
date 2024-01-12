@@ -1,0 +1,94 @@
+{
+    "incidents": [
+        {
+            "title": "U3 : Schadhaftes Fahrzeug",
+            "description": "Wegen eines schadhaften Fahrzeuges werden die ZÃ¼ge der Linie U3 zwischen den Stationen Zieglergasse und Volkstheater U Ã¼ber Gleis 1 gefÃ¼hrt.. Die StÃ¶rung dauert voraussichtlich bis 23 Uhr 45 Minuten 00 Sekunden!",
+            "start": "23 Uhr 13 Minuten 00 Sekunden am 15. August 2018",
+            "end": "23 Uhr 59 Minuten 00 Sekunden am 15. August 2018"
+        },
+        {
+            "title": "29A : Polizeieinsatz",
+            "description": "Nach einer Fahrtbehinderung kommt es auf der Linie 29A zu unterschiedlichen Intervallen.",
+            "start": "22 Uhr 44 Minuten 00 Sekunden am 15. August 2018",
+            "end": "23 Uhr 59 Minuten 00 Sekunden am 15. August 2018"
+        },
+        {
+            "title": "9 : Falschparker",
+            "description": "Wegen eines Falschparkers im Bereich Hormayrgasse 18 ist die Linie 9 in Fahrtrichtung WallriÃstraÃe an der Weiterfahrt gehindert. Die StÃ¶rung dauert voraussichtlich bis 21 Uhr 35 Minuten 00 Sekunden!",
+            "start": "21 Uhr 15 Minuten 00 Sekunden am 15. August 2018",
+            "end": "22 Uhr 30 Minuten 00 Sekunden am 15. August 2018"
+        },
+        {
+            "title": "13A :",
+            "description": "Nach einer Fahrtbehinderung kommt es auf der Linie 13A zu unterschiedlichen Intervallen.",
+            "start": "18 Uhr 26 Minuten 00 Sekunden am 15. August 2018",
+            "end": "21 Uhr 26 Minuten 00 Sekunden am 15. August 2018"
+        },
+        {
+            "title": "U1 : Polizeieinsatz",
+            "description": "Wegen eines Polizeieinsatzes im Haltestellenbereich Leopoldau S U fÃ¤hrt die Linie U1 nur zwischen Oberlaa U und GroÃfeldsiedlung U. Das StÃ¶rungsende ist derzeit nicht absehbar.",
+            "start": "17 Uhr 25 Minuten 00 Sekunden am 15. August 2018",
+            "end": "17 Uhr 46 Minuten 00 Sekunden am 15. August 2018"
+        },
+        {
+            "title": "1, D , 71 : Schadhaftes Fahrzeug",
+            "description": "Wegen eines schadhaften Fahrzeuges im Haltestellenbereich Rathausplatz, Burgtheater wird die Linie 1 in Richtung Stefan-Fadinger-Platz Ã¼ber die Strecke der Linie 2 umgeleitet. Die ZÃ¼ge der Linie D fahren in Richtung Hauptbahnhof Ã¼ber die STrecke der Linie 2. Ein Fahrbetrieb der Linie 71 ist derzeit nur zwischen Zentralfriedhof 3.Tor und Schwarzenbergplatz mÃ¶glich. Ersatzweise benÃ¼tzen Sie bitte die U-Bahnen . Die StÃ¶rung dauert voraussichtlich bis 17 Uhr 30 Minuten 00 Sekunden!",
+            "start": "16 Uhr 42 Minuten 00 Sekunden am 15. August 2018",
+            "end": "18 Uhr 58 Minuten 00 Sekunden am 15. August 2018"
+        },
+        {
+            "title": "49 : Falschparker",
+            "description": "Wegen eines Falschparkers im Bereich Siebensterngasse 32-34 fÃ¤hrt die Linie 49 nur zwischen HÃ¼tteldorf, Bujattigasse und Urban-Loritz-Platz. Die StÃ¶rung dauert voraussichtlich bis 14 Uhr 10 Minuten 00 Sekunden!",
+            "start": "13 Uhr 40 Minuten 00 Sekunden am 15. August 2018",
+            "end": "16 Uhr 12 Minuten 00 Sekunden am 15. August 2018"
+        },
+        {
+            "title": "42 : Verkehrsunfall",
+            "description": "Wegen eines Verkehrsunfalls im Bereich Kreuzgasse 51 ist die Linie 42 in Fahrtrichtung Schottentor U an der Weiterfahrt gehindert. Die StÃ¶rung dauert voraussichtlich bis 13 Uhr 50 Minuten 00 Sekunden!",
+            "start": "13 Uhr 34 Minuten 00 Sekunden am 15. August 2018",
+            "end": "14 Uhr 11 Minuten 00 Sekunden am 15. August 2018"
+        },
+        {
+            "title": "9 : Falschparker",
+            "description": "Wegen eines Falschparkers im Bereich Hormayrgasse 16 ist die Linie 9 in Fahrtrichtung WallriÃstraÃe an der Weiterfahrt gehindert. Die StÃ¶rung dauert voraussichtlich bis 13 Uhr 40 Minuten 00 Sekunden!",
+            "start": "13 Uhr 09 Minuten 00 Sekunden am 15. August 2018",
+            "end": "14 Uhr 12 Minuten 00 Sekunden am 15. August 2018"
+        },
+        {
+            "title": "18 , 71 : Fremder Verkehrsunfall",
+            "description": "Wegen eines fremden Verkehrsunfalles im Bereich Rennweg # LandstraÃer HauptstraÃe fÃ¤hrt die Linie 18 derzeit nur zwischen Burggasse/Stadthalle und St. Marx. Die ZÃ¼ge der Linie 71 fahren nur zwischen Zentralfriedhof 3. Tor und St. Marx. Das StÃ¶rungsende ist derzeit nicht absehbar.",
+            "start": "11 Uhr 32 Minuten 00 Sekunden am 15. August 2018",
+            "end": "12 Uhr 54 Minuten 00 Sekunden am 15. August 2018"
+        },
+        {
+            "title": "60 : Falschparker",
+            "description": "Wegen eines Falschparkers im Bereich Speisinger StraÃe 213 ist die Linie 60 in Fahrtrichtung Westbahnhof S U an der Weiterfahrt gehindert. Die StÃ¶rung dauert voraussichtlich bis 08 Uhr 20 Minuten 00 Sekunden!",
+            "start": "08 Uhr 00 Minuten 00 Sekunden am 15. August 2018",
+            "end": "09 Uhr 22 Minuten 00 Sekunden am 15. August 2018"
+        },
+        {
+            "title": "7A : Verkehrsbedingte VerspÃ¤tungen",
+            "description": "Die Autobuslinie 7A kann wegen VerkehrsÃ¼berlastung derzeit in beiden Richtungen nur unregelmÃ¤Ãig fahren.",
+            "start": "04 Uhr 52 Minuten 00 Sekunden am 15. August 2018",
+            "end": "05 Uhr 45 Minuten 00 Sekunden am 15. August 2018"
+        },
+        {
+            "title": "N31 : VerkehrsstÃ¶rung",
+            "description": "Die Autobuslinie N31 kann wegen einer VerkehrsstÃ¶rung derzeit in beiden Richtungen nur unregelmÃ¤Ãig fahren.",
+            "start": "04 Uhr 00 Minuten 00 Sekunden am 15. August 2018",
+            "end": "04 Uhr 56 Minuten 00 Sekunden am 15. August 2018"
+        },
+        {
+            "title": "N6 : VerkehrsstÃ¶rung",
+            "description": "Die Autobuslinie N6 kann wegen einer VerkehrsstÃ¶rung derzeit in beiden Richtungen nur unregelmÃ¤Ãig fahren.",
+            "start": "01 Uhr 57 Minuten 00 Sekunden am 15. August 2018",
+            "end": "04 Uhr 57 Minuten 00 Sekunden am 15. August 2018"
+        },
+        {
+            "title": "U1 : Polizeieinsatz",
+            "description": "Wegen eines Polizeieinsatzes im Haltestellenbereich Aderklaaer StraÃe fÃ¤hrt die Linie U1 nur zwischen Oberlaa U und Kagraner Platz. Die StÃ¶rung dauert voraussichtlich bis 01 Uhr 40 Minuten 00 Sekunden!",
+            "start": "01 Uhr 09 Minuten 00 Sekunden am 15. August 2018",
+            "end": "05 Uhr 00 Minuten 00 Sekunden am 15. August 2018"
+        }
+    ]
+}

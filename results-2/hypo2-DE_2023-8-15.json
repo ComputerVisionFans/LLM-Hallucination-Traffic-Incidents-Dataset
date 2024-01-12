@@ -1,0 +1,106 @@
+{
+    "incidents": [
+        {
+            "title": "D: Fremder Verkehrsunfall",
+            "description": "Wegen eines fremden Verkehrsunfalles im Bereich ZahnradbahnstraÃe fÃ¤hrt die Linie D nur zwischen Absberggasse und Liechtenwerder Platz. Die StÃ¶rung dauert voraussichtlich bis 00 Uhr 15 Minuten 00 Sekunden!",
+            "start": "23 Uhr 37 Minuten 31 Sekunden am 15. August 2023",
+            "end": "23 Uhr 59 Minuten 01 Sekunden am 15. August 2023"
+        },
+        {
+            "title": "42: Falschparker",
+            "description": "Wegen eines Falschparkers im Bereich Kreuzgasse 21 ist die Linie 42 in Fahrtrichtung Schottentor U an der Weiterfahrt gehindert. Die StÃ¶rung dauert voraussichtlich bis 19 Uhr 00 Minuten 00 Sekunden!",
+            "start": "18 Uhr 44 Minuten 04 Sekunden am 15. August 2023",
+            "end": "19 Uhr 46 Minuten 02 Sekunden am 15. August 2023"
+        },
+        {
+            "title": "26: Schadhaftes Fahrzeug",
+            "description": "Die StraÃenbahnlinie 26 kann wegen eines schadhaften Fahrzeuges derzeit in beiden Richtungen nur unregelmÃ¤Ãig fahren.",
+            "start": "18 Uhr 38 Minuten 38 Sekunden am 15. August 2023",
+            "end": "20 Uhr 39 Minuten 02 Sekunden am 15. August 2023"
+        },
+        {
+            "title": "U4: Verunreinigung",
+            "description": "Wegen einer Verunreinigung in der Station LÃ¤ngenfeldgasse U ist die Linie U4 in Fahrtrichtung HÃ¼tteldorf an der Weiterfahrt gehindert. Das StÃ¶rungsende ist derzeit nicht absehbar.",
+            "start": "18 Uhr 30 Minuten 32 Sekunden am 15. August 2023",
+            "end": "20 Uhr 37 Minuten 01 Sekunden am 15. August 2023"
+        },
+        {
+            "title": "57A: Polizeieinsatz",
+            "description": "Die Autobuslinie 57A kann wegen eines Polizeieinsatzes derzeit in beiden Richtungen nur unregelmÃ¤Ãig fahren.",
+            "start": "17 Uhr 03 Minuten 37 Sekunden am 15. August 2023",
+            "end": "18 Uhr 30 Minuten 02 Sekunden am 15. August 2023"
+        },
+        {
+            "title": "U1: VerspÃ¤tungen",
+            "description": "Die U-Bahnlinie U1 kann wegen einer BetriebsstÃ¶rung derzeit in beiden Richtungen nur unregelmÃ¤Ãig fahren.",
+            "start": "16 Uhr 38 Minuten 05 Sekunden am 15. August 2023",
+            "end": "17 Uhr 25 Minuten 01 Sekunden am 15. August 2023"
+        },
+        {
+            "title": "60: Fahrleitungsgebrechen",
+            "description": "Wegen eines Fahrleitungsgebrechens im Bereich GeÃlgasse 9 fÃ¤hrt die Linie 60 nur zwischen Westbahnhof S U und Hofwiesengasse. Ersatzweise benÃ¼tzen Sie bitte die Linie 60A . Das StÃ¶rungsende ist derzeit nicht absehbar.",
+            "start": "16 Uhr 28 Minuten 59 Sekunden am 15. August 2023",
+            "end": "20 Uhr 19 Minuten 01 Sekunden am 15. August 2023"
+        },
+        {
+            "title": "30A , 36B: Rettungseinsatz",
+            "description": "Wegen eines Rettungseinsatzes in der Justgasse sind die Linien 30A in Richtung Stammersdorfer Freiheitsplatz sowie 36B in Richtung Bellgasse an der Weiterfahrt gehindert. Die StÃ¶rung dauert voraussichtlich bis 14 Uhr 45 Minuten 00 Sekunden.",
+            "start": "14 Uhr 23 Minuten 51 Sekunden am 15. August 2023",
+            "end": "16 Uhr 28 Minuten 01 Sekunden am 15. August 2023"
+        },
+        {
+            "title": "U1: Rettungseinsatz",
+            "description": "Wegen eines Rettungseinsatzes werden die ZÃ¼ge der Linie U1 zwischen den Stationen Keplerplatz U und SÃ¼dtiroler Platz - Hauptbahnhof S U Ã¼ber Gleis 2 gefÃ¼hrt. Die StÃ¶rung dauert voraussichtlich bis 14 Uhr 30 Minuten 00 Sekunden!",
+            "start": "13 Uhr 59 Minuten 15 Sekunden am 15. August 2023",
+            "end": "14 Uhr 55 Minuten 01 Sekunden am 15. August 2023"
+        },
+        {
+            "title": "2: Verkehrsunfall",
+            "description": "Wegen eines Verkehrsunfalls im Bereich WilhelminenstraÃe ist die Linie 2 in Fahrtrichtung Friedrich-Engels-Platz an der Weiterfahrt gehindert. Die StÃ¶rung dauert voraussichtlich bis 14 Uhr 10 Minuten 00 Sekunden!",
+            "start": "13 Uhr 55 Minuten 15 Sekunden am 15. August 2023",
+            "end": "16 Uhr 27 Minuten 02 Sekunden am 15. August 2023"
+        },
+        {
+            "title": "66A: Schadhaftes Fahrzeug",
+            "description": "Die Autobuslinie 66A kann wegen eines schadhaften Fahrzeuges derzeit in beiden Richtungen nur unregelmÃ¤Ãig fahren.",
+            "start": "13 Uhr 35 Minuten 49 Sekunden am 15. August 2023",
+            "end": "14 Uhr 45 Minuten 01 Sekunden am 15. August 2023"
+        },
+        {
+            "title": "68A , 68B: Falschparker",
+            "description": "Wegen eines Falschparkers im Bereich Waldgasse 32 sind die Linien 68A , 68B in Fahrtrichtung Reumannplatz U an der Weiterfahrt gehindert. Die StÃ¶rung dauert voraussichtlich bis 12 Uhr 20 Minuten 00 Sekunden!",
+            "start": "11 Uhr 57 Minuten 32 Sekunden am 15. August 2023",
+            "end": "13 Uhr 08 Minuten 01 Sekunden am 15. August 2023"
+        },
+        {
+            "title": "D, 5 , 33: Polizeieinsatz",
+            "description": "Wegen eines Polizeieinsatzes im Julius-Tandler-Platz sind die Linien D in Richtung NuÃdorf, 5 in Richtung Westbahnhof und 33 in Richtung Augasse an der Weiterfahrt gehindert. Die StÃ¶rung dauert voraussichtlich bis 11 Uhr 00 Minuten 00 Sekunden.",
+            "start": "10 Uhr 44 Minuten 48 Sekunden am 15. August 2023",
+            "end": "11 Uhr 59 Minuten 01 Sekunden am 15. August 2023"
+        },
+        {
+            "title": "U6: Rettungseinsatz",
+            "description": "Wegen eines Rettungseinsatzes werden die ZÃ¼ge der Linie U6 zwischen den Stationen JosefstÃ¤dter StraÃe U und Alser StraÃe U Ã¼ber Gleis 1 gefÃ¼hrt. Die StÃ¶rung dauert voraussichtlich bis 11 Uhr 00 Minuten 00 Sekunden!",
+            "start": "10 Uhr 34 Minuten 57 Sekunden am 15. August 2023",
+            "end": "11 Uhr 34 Minuten 02 Sekunden am 15. August 2023"
+        },
+        {
+            "title": "30A: Rettungseinsatz",
+            "description": "Wegen eines Rettungseinsatzes im Haltestellenbereich Bernreiterplatz ist die Linie 30A in Fahrtrichtung Neu Leopoldau an der Weiterfahrt gehindert. Die StÃ¶rung dauert voraussichtlich bis 09 Uhr 30 Minuten 00 Sekunden!",
+            "start": "09 Uhr 05 Minuten 38 Sekunden am 15. August 2023",
+            "end": "12 Uhr 01 Minuten 01 Sekunden am 15. August 2023"
+        },
+        {
+            "title": "14A: Feuerwehreinsatz",
+            "description": "Nach einer Fahrtbehinderung kommt es auf der Linie 14A zu unterschiedlichen Intervallen.",
+            "start": "07 Uhr 02 Minuten 09 Sekunden am 15. August 2023",
+            "end": "08 Uhr 13 Minuten 01 Sekunden am 15. August 2023"
+        },
+        {
+            "title": "U6: VerspÃ¤tungen",
+            "description": "Die U-Bahnlinie U6 kann wegen eines schadhaften Fahrzeuges derzeit in beiden Richtungen nur unregelmÃ¤Ãig fahren.",
+            "start": "04 Uhr 39 Minuten 56 Sekunden am 15. August 2023",
+            "end": "05 Uhr 15 Minuten 01 Sekunden am 15. August 2023"
+        }
+    ]
+}

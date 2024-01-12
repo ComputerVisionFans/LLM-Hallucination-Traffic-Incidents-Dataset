@@ -1,0 +1,94 @@
+{
+    "incidents": [
+        {
+            "title": "67B : Schadhaftes Fahrzeug",
+            "description": "Wegen eines schadhaften Fahrzeuges ist ein Betrieb der Linie 67B derzeit nicht mÃ¶glich. Die StÃ¶rung dauert voraussichtlich bis Betriebsschluss!",
+            "start": "21 Uhr 32 Minuten 59 Sekunden am 15. August 2020",
+            "end": "23 Uhr 21 Minuten 01 Sekunden am 15. August 2020"
+        },
+        {
+            "title": "66A : Verkehrsunfall",
+            "description": "Die Autobuslinie 66A kann wegen eines Verkehrsunfalles derzeit in beiden Richtungen nur unregelmÃ¤Ãig fahren.",
+            "start": "20 Uhr 26 Minuten 11 Sekunden am 15. August 2020",
+            "end": "22 Uhr 01 Minuten 01 Sekunden am 15. August 2020"
+        },
+        {
+            "title": "42 : Verkehrsbedingte VerspÃ¤tungen",
+            "description": "Die StraÃenbahnlinie 42 kann wegen VerkehrsÃ¼berlastung derzeit in beiden Richtungen nur unregelmÃ¤Ãig fahren.",
+            "start": "18 Uhr 18 Minuten 50 Sekunden am 15. August 2020",
+            "end": "18 Uhr 21 Minuten 02 Sekunden am 15. August 2020"
+        },
+        {
+            "title": "2 : Feuerwehreinsatz",
+            "description": "Wegen eines Feuerwehreinsatzes im Bereich JosefstÃ¤dter StraÃe 48 ist die Linie 2 in beiden Fahrtrichtungen an der Weiterfahrt gehindert. Das StÃ¶rungsende ist derzeit nicht absehbar.",
+            "start": "17 Uhr 17 Minuten 54 Sekunden am 15. August 2020",
+            "end": "23 Uhr 59 Minuten 01 Sekunden am 15. August 2020"
+        },
+        {
+            "title": "46 : Fremder Verkehrsunfall",
+            "description": "Wegen eines fremden Verkehrsunfalles im Bereich ThaliastraÃe # Blumberggasse ist die Linie 46 in beiden Fahrtrichtungen an der Weiterfahrt gehindert. Die StÃ¶rung dauert voraussichtlich bis 12 Uhr 00 Minuten 00 Sekunden!",
+            "start": "11 Uhr 31 Minuten 18 Sekunden am 15. August 2020",
+            "end": "13 Uhr 24 Minuten 01 Sekunden am 15. August 2020"
+        },
+        {
+            "title": "5B : Schadhaftes Fahrzeug",
+            "description": "Die Autobuslinie 5B kann wegen einer VerkehrsstÃ¶rung derzeit in beiden Richtungen nur unregelmÃ¤Ãig fahren.",
+            "start": "11 Uhr 25 Minuten 21 Sekunden am 15. August 2020",
+            "end": "11 Uhr 43 Minuten 02 Sekunden am 15. August 2020"
+        },
+        {
+            "title": "59A : Schadhaftes Fahrzeug",
+            "description": "Die Autobuslinie 59A kann wegen einer VerkehrsstÃ¶rung derzeit in beiden Richtungen nur unregelmÃ¤Ãig fahren.",
+            "start": "11 Uhr 16 Minuten 45 Sekunden am 15. August 2020",
+            "end": "12 Uhr 14 Minuten 02 Sekunden am 15. August 2020"
+        },
+        {
+            "title": "U4: VerspÃ¤tungen",
+            "description": "Die Linie U4 kann derzeit nur unregelmÃ¤Ãig fahren.",
+            "start": "09 Uhr 01 Minuten 10 Sekunden am 15. August 2020",
+            "end": "12 Uhr 37 Minuten 02 Sekunden am 15. August 2020"
+        },
+        {
+            "title": "5A : Polizeieinsatz",
+            "description": "Wegen eines Polizeieinsatzes im Haltestellenbereich GriegstraÃe ist die Linie 5A in Fahrtrichtung GauÃplatz an der Weiterfahrt gehindert. Die StÃ¶rung dauert voraussichtlich bis 08 Uhr 00 Minuten 00 Sekunden!",
+            "start": "07 Uhr 41 Minuten 53 Sekunden am 15. August 2020",
+            "end": "10 Uhr 39 Minuten 02 Sekunden am 15. August 2020"
+        },
+        {
+            "title": "71 : Schadhaftes Fahrzeug",
+            "description": "Die StraÃenbahnlinie 71 kann wegen einer VerkehrsstÃ¶rung derzeit in beiden Richtungen nur unregelmÃ¤Ãig fahren.",
+            "start": "07 Uhr 12 Minuten 58 Sekunden am 15. August 2020",
+            "end": "07 Uhr 38 Minuten 01 Sekunden am 15. August 2020"
+        },
+        {
+            "title": "O : Schadhaftes Fahrzeug",
+            "description": "Die StraÃenbahnlinie O kann wegen einer VerkehrsstÃ¶rung derzeit in beiden Richtungen nur unregelmÃ¤Ãig fahren.",
+            "start": "06 Uhr 18 Minuten 40 Sekunden am 15. August 2020",
+            "end": "07 Uhr 01 Minuten 02 Sekunden am 15. August 2020"
+        },
+        {
+            "title": "61A : Falschparker",
+            "description": "Wegen eines Falschparkers im Bereich Karl-Tornay-Gasse ist die Linie 61A in Fahrtrichtung Liesing S an der Weiterfahrt gehindert. Die StÃ¶rung dauert voraussichtlich bis 06 Uhr 20 Minuten 00 Sekunden!",
+            "start": "05 Uhr 52 Minuten 30 Sekunden am 15. August 2020",
+            "end": "06 Uhr 51 Minuten 02 Sekunden am 15. August 2020"
+        },
+        {
+            "title": "1 : Verkehrsunfall",
+            "description": "Wegen eines Verkehrsunfalls im Bereich RotundenbrÃ¼cke fÃ¤hrt die StraÃenbahnlinie 1 derzeit nur zwischen Stefan-Fadinger-Platz und Radetzkyplatz. Die ZÃ¼ge werden Ã¼ber die Strecke der Linie O bis Praterstern S U gefÃ¼hrt. Die Autobuslinie 4A fÃ¤hrt derzeit nur zwischen karlsplatz U und Rasumofskygasse. Das Ende der StÃ¶rung ist derzeit nicht absehbar!",
+            "start": "05 Uhr 45 Minuten 36 Sekunden am 15. August 2020",
+            "end": "09 Uhr 33 Minuten 01 Sekunden am 15. August 2020"
+        },
+        {
+            "title": "37, 38, 40, 41 , 42 : Schadhaftes Fahrzeug",
+            "description": "Wegen eines schadhaften Zuges in der WÃ¤hringer StraÃe fÃ¤hrt die StraÃenbahnlinie 37 nur zwischen Hohe Warte und NuÃdorfer StraÃe U. Die Linie 38 fÃ¤hrt nur zwischen Grinzing und Spitalgasse und wird weiters Ã¼ber die Stracke der Linie 5 und 43 zum Zimmermannplatz gefÃ¼hrt. Die StraÃenbahnlinien 40, 41 sowie 42 fahren in Fahrtrichtung Schottentor U ab WÃ¤hringer StraÃe, Volksoper Ã¼ber den WÃ¤hringer GÃ¼rtel bis Marsanogasse bzw. SternwartestraÃe. Weichen Sie auf die Autobuslinie 40A, die U6 und die StraÃenbahnlinien 43 und 44 aus. Die StÃ¶rung dauert voraussichtlich bis 06 Uhr 00 Minuten 00 Sekunden.",
+            "start": "05 Uhr 42 Minuten 38 Sekunden am 15. August 2020",
+            "end": "06 Uhr 36 Minuten 02 Sekunden am 15. August 2020"
+        },
+        {
+            "title": "U3 : Polizeieinsatz",
+            "description": "Nach einer Fahrtbehinderung kommt es auf der Linie U3 zu unterschiedlichen Intervallen.",
+            "start": "04 Uhr 57 Minuten 27 Sekunden am 15. August 2020",
+            "end": "12 Uhr 39 Minuten 02 Sekunden am 15. August 2020"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "incidents": [
+        {
+            "title": "O Feuerwehreinsatz",
+            "description": "Wegen eines Feuerwehreinsatzes im Bereich Bruno-Marek-Allee ist die Linie O in Fahrtrichtung Quellenplatz an der Weiterfahrt gehindert. Die StÃ¶rung dauert voraussichtlich bis 00 Uhr 10 Minuten 00 Sekunden!",
+            "start": "23 Uhr 55 Minuten 48 Sekunden am 15. August 2021",
+            "end": "00 Uhr 30 Minuten 01 Sekunden am 16. August 2021"
+        },
+        {
+            "title": "O Feuerwehreinsatz",
+            "description": "Wegen eines Feuerwehreinsatzes im Bereich Ungargasse 42 ist die Linie O in Fahrtrichtung Bruno-Marek-Allee an der Weiterfahrt gehindert. Die StÃ¶rung dauert voraussichtlich bis 23 Uhr 50 Minuten 00 Sekunden!",
+            "start": "23 Uhr 33 Minuten 49 Sekunden am 15. August 2021",
+            "end": "23 Uhr 56 Minuten 01 Sekunden am 15. August 2021"
+        },
+        {
+            "title": "12A Rettungseinsatz",
+            "description": "Wegen eines Rettungseinsatzes im Bereich Mariahilfer StraÃe # Geibelgasse ist die Linie 12A in Fahrtrichtung Schmelz, Gablenzgasse an der Weiterfahrt gehindert. Die StÃ¶rung dauert voraussichtlich bis 23 Uhr 40 Minuten 00 Sekunden!",
+            "start": "23 Uhr 21 Minuten 29 Sekunden am 15. August 2021",
+            "end": "23 Uhr 31 Minuten 02 Sekunden am 15. August 2021"
+        },
+        {
+            "title": "60 Feuerwehreinsatz",
+            "description": "Wegen eines Feuerwehreinsatzes im Bereich Preyergasse fÃ¤hrt die Linie 60 derzeit nur zwischen Westbahnhof S U und Hietzing U beziehungsweise Hofwiesengasse und Rodaun. Ersatzweise benÃ¼tzen Sie bitte die Linien 56A und 56B . Das StÃ¶rungsende ist derzeit nicht absehbar.",
+            "start": "17 Uhr 42 Minuten 16 Sekunden am 15. August 2021",
+            "end": "19 Uhr 18 Minuten 01 Sekunden am 15. August 2021"
+        },
+        {
+            "title": "2 Verkehrsunfall",
+            "description": "Wegen eines Verkehrsunfalls im Haltestellenbereich MarienbrÃ¼cke ist die Linie 2 in Fahrtrichtung Dornbach an der Weiterfahrt gehindert. Die StÃ¶rung dauert voraussichtlich bis 13 Uhr 20 Minuten 00 Sekunden!",
+            "start": "12 Uhr 57 Minuten 11 Sekunden am 15. August 2021",
+            "end": "15 Uhr 06 Minuten 01 Sekunden am 15. August 2021"
+        },
+        {
+            "title": "2 Rettungseinsatz",
+            "description": "Wegen eines Rettungseinsatzes im Haltestellenbereich RÃ¶mergasse ist die Linie 2 in Fahrtrichtung Friedrich-Engels-Platz an der Weiterfahrt gehindert. Die StÃ¶rung dauert voraussichtlich bis 06 Uhr 40 Minuten 00 Sekunden!",
+            "start": "06 Uhr 24 Minuten 54 Sekunden am 15. August 2021",
+            "end": "07 Uhr 43 Minuten 01 Sekunden am 15. August 2021"
+        },
+        {
+            "title": "5 Falschparker",
+            "description": "Wegen eines Falschparkers im Bereich Blindengasse 13 ist die Linie 5 in Fahrtrichtung Praterstern S U an der Weiterfahrt gehindert. Die StÃ¶rung dauert voraussichtlich bis 06 Uhr 20 Minuten 00 Sekunden!",
+            "start": "05 Uhr 57 Minuten 44 Sekunden am 15. August 2021",
+            "end": "07 Uhr 45 Minuten 01 Sekunden am 15. August 2021"
+        },
+        {
+            "title": "98A : VerspÃ¤tungen",
+            "description": "Die Autobuslinie 98A kann derzeit in beiden Richtungen nur unregelmÃ¤Ãig fahren.",
+            "start": "04 Uhr 59 Minuten 00 Sekunden am 15. August 2021",
+            "end": "05 Uhr 21 Minuten 02 Sekunden am 15. August 2021"
+        },
+        {
+            "title": "49 : Feuerwehreinsatz",
+            "description": "Wegen eines Feuerwehreinsatzes im Bereich HÃ¼tteldorfer StraÃe # Ameisbachzeile fÃ¤hrt die Linie 49 nur zwischen Ring, Volkstheater U und Breitensee S. Das StÃ¶rungsende ist derzeit nicht absehbar.",
+            "start": "04 Uhr 50 Minuten 54 Sekunden am 15. August 2021",
+            "end": "09 Uhr 43 Minuten 01 Sekunden am 15. August 2021"
+        },
+        {
+            "title": "N49 Feuerwehreinsatz",
+            "description": "Wegen eines Feuerwehreinsatzes im Bereich HÃ¼tteldorfer StraÃe # Ameisbachzeile ist die Linie N49 in Fahrtrichtung HÃ¼tteldorfer StraÃe U an der Weiterfahrt gehindert. Das StÃ¶rungsende ist derzeit nicht absehbar.",
+            "start": "02 Uhr 52 Minuten 40 Sekunden am 15. August 2021",
+            "end": "05 Uhr 18 Minuten 01 Sekunden am 15. August 2021"
+        },
+        {
+            "title": "U2z Rettungseinsatz",
+            "description": "Wegen eines Rettungseinsatzes am Dr.-Karl-Renner-Ring sind die Linien 1 und D in Richtung Marsanogasse, die Linie 2 in Richtung Dornbach und die Linie U2Z in Richtung Schottenring an der Weiterfahrt gehindert. Die StÃ¶rung dauert voraussichtlich bis 01 Uhr 00 Minuten 00 Sekunden.",
+            "start": "00 Uhr 20 Minuten 08 Sekunden am 15. August 2021",
+            "end": "02 Uhr 01 Minuten 01 Sekunden am 15. August 2021"
+        }
+    ]
+}

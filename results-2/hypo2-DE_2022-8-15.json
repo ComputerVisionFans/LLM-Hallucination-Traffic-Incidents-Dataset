@@ -1,0 +1,124 @@
+{
+    "incidents": [
+        {
+            "title": "31 Fremder Verkehrsunfall",
+            "description": "Nach einer Fahrtbehinderung kommt es auf der Linie 31 zu unterschiedlichen Intervallen.",
+            "start": "23 Uhr 20 Minuten 46 Sekunden am 15. August 2022",
+            "end": "23 Uhr 59 Minuten 01 Sekunden am 15. August 2022"
+        },
+        {
+            "title": "6 : Polizeieinsatz",
+            "description": "Die StraÃenbahnlinie 6 kann wegen eines Polizeieinsatzes derzeit in beiden Richtungen nur unregelmÃ¤Ãig fahren.",
+            "start": "21 Uhr 02 Minuten 00 Sekunden am 15. August 2022",
+            "end": "22 Uhr 17 Minuten 01 Sekunden am 15. August 2022"
+        },
+        {
+            "title": "2 Verkehrsunfall",
+            "description": "Wegen eines Verkehrsunfalls im Bereich Schubertring # Johannesgasse ist die Linie 2 in Fahrtrichtung Friedrich-Engels-Platz an der Weiterfahrt gehindert. Die StÃ¶rung dauert voraussichtlich bis 18 Uhr 20 Minuten 00 Sekunden!",
+            "start": "18 Uhr 01 Minuten 14 Sekunden am 15. August 2022",
+            "end": "19 Uhr 38 Minuten 01 Sekunden am 15. August 2022"
+        },
+        {
+            "title": "12A Fremder Verkehrsunfall",
+            "description": "Wegen eines fremden Verkehrsunfalles im Bereich MinciostraÃe ist die Linie 12A in Fahrtrichtung Schmelz, Gablenzgasse an der Weiterfahrt gehindert. Die StÃ¶rung dauert voraussichtlich bis 17 Uhr 40 Minuten 00 Sekunden!",
+            "start": "17 Uhr 22 Minuten 14 Sekunden am 15. August 2022",
+            "end": "19 Uhr 22 Minuten 02 Sekunden am 15. August 2022"
+        },
+        {
+            "title": "42 Falschparker",
+            "description": "Wegen eines Falschparkers im Bereich Kreuzgasse ist die Linie 42 in Fahrtrichtung Antonigasse an der Weiterfahrt gehindert. Die StÃ¶rung dauert voraussichtlich bis 16 Uhr 10 Minuten 00 Sekunden!",
+            "start": "15 Uhr 49 Minuten 39 Sekunden am 15. August 2022",
+            "end": "17 Uhr 22 Minuten 01 Sekunden am 15. August 2022"
+        },
+        {
+            "title": "U2 : StellwerkstÃ¶rung",
+            "description": "Wegen einer StellwerkstÃ¶rung, bzw. zur Behebung des Schadens ist derzeit ein Fahrbetrieb der Linie U2 zwischen DonaustadtbrÃ¼cke und AspernstraÃe in beiden Fahrtrichtungen nicht mÃ¶glich. Die StÃ¶rung dauert voraussichtlich bis 13 Uhr 10 Minuten 00 Sekunden, wir empfehlen, die StÃ¶rung vorerst abzuwarten.",
+            "start": "13 Uhr 00 Minuten 20 Sekunden am 15. August 2022",
+            "end": "13 Uhr 54 Minuten 01 Sekunden am 15. August 2022"
+        },
+        {
+            "title": "U4 : Polizeieinsatz",
+            "description": "Wegen eines Polizeieinsatzes in der Station Pilgramgasse U ist die Linie U4 in beiden Fahrtrichtungen an der Weiterfahrt gehindert. Die StÃ¶rung dauert voraussichtlich bis 12 Uhr 55 Minuten 00 Sekunden!",
+            "start": "12 Uhr 46 Minuten 46 Sekunden am 15. August 2022",
+            "end": "13 Uhr 21 Minuten 01 Sekunden am 15. August 2022"
+        },
+        {
+            "title": "U3 : BetriebsstÃ¶rung",
+            "description": "Wegen einer BetriebsstÃ¶rung in der Station KendlerstraÃe U ist die Linie U3 in Fahrtrichtung Ottakring an der Weiterfahrt gehindert. Die StÃ¶rung dauert voraussichtlich bis 12 Uhr 30 Minuten 00 Sekunden!",
+            "start": "12 Uhr 09 Minuten 27 Sekunden am 15. August 2022",
+            "end": "13 Uhr 22 Minuten 02 Sekunden am 15. August 2022"
+        },
+        {
+            "title": "U3: VerspÃ¤tungen",
+            "description": "Die U-Bahnlinie U3 kann wegen einer BetriebsstÃ¶rung derzeit in beiden Richtungen nur unregelmÃ¤Ãig fahren.",
+            "start": "12 Uhr 08 Minuten 04 Sekunden am 15. August 2022",
+            "end": "12 Uhr 11 Minuten 01 Sekunden am 15. August 2022"
+        },
+        {
+            "title": "U2 : StellwerkstÃ¶rung",
+            "description": "Wegen einer StellwerkstÃ¶rung in der Station Donaumarina U fÃ¤hrt die Linie U2 derzeit nur zwischen Schottentor und Stadion U beziehungsweise DonaustadtbrÃ¼cke U und AspernstraÃe. Ersatzweise benÃ¼tzen Sie bitte die Linien U1, U6, die S-Bahn sowie die Linien 11A und 77A . Das StÃ¶rungsende ist derzeit nicht absehbar.",
+            "start": "11 Uhr 35 Minuten 50 Sekunden am 15. August 2022",
+            "end": "13 Uhr 01 Minuten 01 Sekunden am 15. August 2022"
+        },
+        {
+            "title": "U6 : Polizeieinsatz",
+            "description": "Wegen eines Polizeieinsatzes werden die ZÃ¼ge der Linie U6 zwischen den Stationen JosefstÃ¤dter StraÃe U und Alser StraÃe U Ã¼ber Gleis 1 gefÃ¼hrt. Die StÃ¶rung dauert voraussichtlich bis 11 Uhr 30 Minuten 00 Sekunden!",
+            "start": "11 Uhr 11 Minuten 48 Sekunden am 15. August 2022",
+            "end": "12 Uhr 05 Minuten 01 Sekunden am 15. August 2022"
+        },
+        {
+            "title": "4A : Schadhaftes Fahrzeug",
+            "description": "Die Autobuslinie 4A kann wegen eines schadhaften Fahrzeuges derzeit in beiden Richtungen nur unregelmÃ¤Ãig fahren.",
+            "start": "11 Uhr 04 Minuten 01 Sekunden am 15. August 2022",
+            "end": "12 Uhr 00 Minuten 01 Sekunden am 15. August 2022"
+        },
+        {
+            "title": "U2: VerspÃ¤tungen",
+            "description": "Die U-Bahnlinie U2 kann derzeit in beiden Richtungen nur unregelmÃ¤Ãig fahren.",
+            "start": "09 Uhr 32 Minuten 07 Sekunden am 15. August 2022",
+            "end": "11 Uhr 35 Minuten 02 Sekunden am 15. August 2022"
+        },
+        {
+            "title": "18 : VerspÃ¤tungen",
+            "description": "Die StraÃenbahnlinie 18 kann derzeit in beiden Richtungen nur unregelmÃ¤Ãig fahren.",
+            "start": "08 Uhr 33 Minuten 07 Sekunden am 15. August 2022",
+            "end": "10 Uhr 28 Minuten 01 Sekunden am 15. August 2022"
+        },
+        {
+            "title": "U2Z Schadhaftes Fahrzeug",
+            "description": "Wegen eines schadhaften Zuges im Bereich Schottenring # WipplingerstraÃe sind die Linien U2Z, 1 und D in Richtung Schottenring / Prater Hauptallee / NuÃdorf an der Weiterfahrt gehindert. Die StÃ¶rung dauert voraussichtlich bis 08 Uhr 45 Minuten 00 Sekunden.",
+            "start": "08 Uhr 19 Minuten 55 Sekunden am 15. August 2022",
+            "end": "09 Uhr 44 Minuten 01 Sekunden am 15. August 2022"
+        },
+        {
+            "title": "66A Rettungseinsatz",
+            "description": "Wegen eines Rettungseinsatzes im Bereich MehlfÃ¼hrergasse # Anton-Krieger-Gasse ist die Linie 66A in Fahrtrichtung Reumannplatz U an der Weiterfahrt gehindert. Die StÃ¶rung dauert voraussichtlich bis 08 Uhr 30 Minuten 00 Sekunden!",
+            "start": "08 Uhr 10 Minuten 57 Sekunden am 15. August 2022",
+            "end": "10 Uhr 26 Minuten 01 Sekunden am 15. August 2022"
+        },
+        {
+            "title": "U4 : Rettungseinsatz",
+            "description": "Wegen eines Rettungseinsatzes werden die ZÃ¼ge der Linie U4 zwischen den Stationen SchÃ¶nbrunn U und Hietzing U Ã¼ber Gleis 1 gefÃ¼hrt. Die StÃ¶rung dauert voraussichtlich bis 07 Uhr 15 Minuten 00 Sekunden!",
+            "start": "06 Uhr 50 Minuten 17 Sekunden am 15. August 2022",
+            "end": "12 Uhr 05 Minuten 01 Sekunden am 15. August 2022"
+        },
+        {
+            "title": "N65 : VerspÃ¤tungen",
+            "description": "Die Autobuslinie N65 kann derzeit in beiden Richtungen nur unregelmÃ¤Ãig fahren.",
+            "start": "02 Uhr 41 Minuten 16 Sekunden am 15. August 2022",
+            "end": "04 Uhr 11 Minuten 01 Sekunden am 15. August 2022"
+        },
+        {
+            "title": "N6 : VerspÃ¤tungen",
+            "description": "Die Autobuslinie N6 kann derzeit in beiden Richtungen nur unregelmÃ¤Ãig fahren.",
+            "start": "01 Uhr 32 Minuten 36 Sekunden am 15. August 2022",
+            "end": "02 Uhr 28 Minuten 01 Sekunden am 15. August 2022"
+        },
+        {
+            "title": "N90 BetriebsstÃ¶rung",
+            "description": "Wegen einer BetriebsstÃ¶rung ist ein Betrieb der Linie N90 derzeit nicht mÃ¶glich. Die StÃ¶rung dauert voraussichtlich bis Betriebsschluss.",
+            "start": "00 Uhr 59 Minuten 26 Sekunden am 15. August 2022",
+            "end": "05 Uhr 00 Minuten 01 Sekunden am 15. August 2022"
+        }
+    ]
+}

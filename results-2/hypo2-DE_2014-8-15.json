@@ -1,0 +1,76 @@
+{
+    "incidents": [
+        {
+            "title": "42 Fahrtbehinderung",
+            "description": "Wegen eines verkehrswidrig abgestellten Pkw in der Kreuzgasse Onr. 19, sind derzeit die ZÃ¼ge der  Linie 42 in Richtung Schottentor an der Weiterfahrt gehindert.",
+            "start": "23 Uhr 18 Minuten 00 Sekunden am 15. August 2014",
+            "end": "00 Uhr 00 Minuten 00 Sekunden am 16. August 2014"
+        },
+        {
+            "title": "38A Schadhaftes Fahrzeug",
+            "description": "Derzeit kommt es in beiden Fahrtrichtungen zu lÃ¤ngeren Wartezeiten.",
+            "start": "20 Uhr 18 Minuten 00 Sekunden am 15. August 2014",
+            "end": "21 Uhr 18 Minuten 00 Sekunden am 15. August 2014"
+        },
+        {
+            "title": "31 VerspÃ¤tung",
+            "description": "Verkehrsbedingt kann die Linie 31 in beiden Richtungen nur unregelmÃ¤Ãig fahren.",
+            "start": "18 Uhr 21 Minuten 00 Sekunden am 15. August 2014",
+            "end": "19 Uhr 42 Minuten 00 Sekunden am 15. August 2014"
+        },
+        {
+            "title": "15A VerspÃ¤tung",
+            "description": "Derzeit kommt es in beiden Fahrtrichtungen zu lÃ¤ngeren Wartezeiten.",
+            "start": "17 Uhr 44 Minuten 00 Sekunden am 15. August 2014",
+            "end": "18 Uhr 39 Minuten 00 Sekunden am 15. August 2014"
+        },
+        {
+            "title": "39A Schadhaftes Fahrzeug",
+            "description": "Derzeit kommt es in beiden Fahrtrichtungen zu lÃ¤ngeren Wartezeiten.",
+            "start": "17 Uhr 05 Minuten 00 Sekunden am 15. August 2014",
+            "end": "18 Uhr 03 Minuten 00 Sekunden am 15. August 2014"
+        },
+        {
+            "title": "63A VerspÃ¤tung",
+            "description": "Verkehrsbedingt kann die Linie 63A in beiden Richtungen nur unregelmÃ¤Ãig fahren.",
+            "start": "13 Uhr 51 Minuten 00 Sekunden am 15. August 2014",
+            "end": "20 Uhr 51 Minuten 00 Sekunden am 15. August 2014"
+        },
+        {
+            "title": "60 Verkehrsunfall",
+            "description": "Durch einen Verkehrsunfall in der Lainzer StraÃe ist die StraÃenbahnlinie 60 in Fahrtrichtung KennedybrÃ¼cke, Hietzing fahrtbehindert.",
+            "start": "13 Uhr 48 Minuten 00 Sekunden am 15. August 2014",
+            "end": "14 Uhr 27 Minuten 00 Sekunden am 15. August 2014"
+        },
+        {
+            "title": "49 Fahrtbehinderung",
+            "description": "Durch einen verkehrswidrig abgestellten PKW in der Siebensterngasse kann die StraÃenbahnlinie 49 nur zwischen HÃ¼tteldorf und Urban-Loritz-Platz fahren. Bitte auf U3 und 48A ausweichen!",
+            "start": "11 Uhr 47 Minuten 00 Sekunden am 15. August 2014",
+            "end": "12 Uhr 54 Minuten 00 Sekunden am 15. August 2014"
+        },
+        {
+            "title": "1 Rettungseinsatz",
+            "description": "Nach einer Fahrtbehinderung kommt es derzeit zu lÃ¤ngeren Wartezeiten.",
+            "start": "10 Uhr 45 Minuten 00 Sekunden am 15. August 2014",
+            "end": "11 Uhr 42 Minuten 00 Sekunden am 15. August 2014"
+        },
+        {
+            "title": "N31 SachbeschÃ¤digung",
+            "description": "Derzeit kommt es in beide Richtungen zu lÃ¤ngere Wartezeiten",
+            "start": "02 Uhr 35 Minuten 00 Sekunden am 15. August 2014",
+            "end": "04 Uhr 00 Minuten 00 Sekunden am 15. August 2014"
+        },
+        {
+            "title": "N6 SachbeschÃ¤digung",
+            "description": "Derzeit kommt es in beide Richtungen zu lÃ¤ngere Wartezeiten",
+            "start": "02 Uhr 34 Minuten 00 Sekunden am 15. August 2014",
+            "end": "04 Uhr 00 Minuten 00 Sekunden am 15. August 2014"
+        },
+        {
+            "title": "40 Gleisschaden",
+            "description": "Aufgrund eines Spontangebrechens in der HerbeckstraÃe ist derzeit ein Fahrbetrieb der StraÃenbahnlinie 9 nur zwischen Westbahnhof und Antonigasse mÃ¶glich. Die StraÃenbahnlinie 40 wird in Fahrtrichtung HerbeckstraÃe ab Gersthof nach PÃ¶tzleinsdorf umgeleitet.",
+            "start": "00 Uhr 57 Minuten 00 Sekunden am 15. August 2014",
+            "end": "00 Uhr 03 Minuten 00 Sekunden am 16. August 2014"
+        }
+    ]
+}
