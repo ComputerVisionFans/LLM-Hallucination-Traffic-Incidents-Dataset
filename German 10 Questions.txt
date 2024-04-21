@@ -1,0 +1,10 @@
+1. Zählen Sie die Ursachen der Störungen pro Stunde auf, geben Sie ein Wörterbuch aus, bei dem die Stunde der Schlüssel und die Störungsursache sowie ihre Häufigkeit der Wert sind. (Beachten Sie, dass es in derselben Stunde mehrere Störungen geben kann, die Störungsursachen werden daher nach tatsächlichen Gegebenheiten gezählt)
+2. Finden Sie die Leitungen mit den meisten Störungen während der morgendlichen Hauptverkehrszeit (7 bis 9 Uhr) und der abendlichen Hauptverkehrszeit (17 bis 19 Uhr), und geben Sie jeweils den Leitungsnamen und die Störungshäufigkeit aus.
+3. Ermitteln Sie die Zeitspannen mit den meisten Störungen. Teilen Sie den Tag in Zeitspannen von je 3 Stunden ein und berechnen Sie die Gesamtdauer der Störungen in jeder Zeitspanne. Finden Sie die Zeitspanne mit der längsten Störungsdauer.
+4. Finden Sie die erste und letzte Störung des Tages, und geben Sie deren Eintrittszeit, Dauer und Störungsart aus.
+5. Ermitteln Sie die 3 Störungen mit der größten Auswirkung auf die Anzahl der betroffenen Haltestellen, und geben Sie diese aus.
+6. Finden Sie die 3 Ereignisse mit der längsten Dauer, und geben Sie deren Titel und Dauer in Stunden und Minuten (z.B. 1 Stunde 20 Minuten) absteigend sortiert aus.
+7. Berechnen Sie die durchschnittliche Dauer aller Ereignisse (in Minuten), und finden Sie das Ereignis, dessen Dauer am nächsten am Durchschnitt liegt.
+8. Finden Sie alle Ereignisse, die zwischen 6 Uhr morgens und 6 Uhr abends beginnen, sortieren Sie sie aufsteigend nach Beginn, und geben Sie deren Titel und Dauer aus.
+9. Wenn ein Ereignis innerhalb von 1 Stunde beendet wird, gilt es als "Kurzereignis", andernfalls als "Langereignis". Finden Sie alle Langereignisse, geben Sie deren Titel aus und berechnen Sie deren durchschnittliche Dauer.
+10. Berechnen und vergleichen Sie die Gesamtdauer der Ereignisse am Vormittag (6:00-12:00), Nachmittag (12:00-18:00) und Abend (18:00-24:00).
