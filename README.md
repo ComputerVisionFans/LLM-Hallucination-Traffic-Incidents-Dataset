@@ -122,8 +122,8 @@ This dataset is intended to **encourage public thinking about how LLMs might res
 
 Ongoing XAI Project with targeting of exploring llm hallucination problem
 
-Open_llm_leaderboard for select llm: https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard 
+- Open_llm_leaderboard for select llm: https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard 
 
-Opensource LLama model: https://github.com/jzhang38/TinyLlama/blob/main/EVAL.md
+- Opensource LLama model: https://github.com/jzhang38/TinyLlama/blob/main/EVAL.md
 
 
