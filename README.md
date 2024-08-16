@@ -94,6 +94,7 @@ The numbers in parentheses represent a hypothetical projection for the entire ye
     ├── database.json  # Simple dataset you can easily play with using LLMs, since the original file includes 99K incidents, major LLMs won't accept such token length input.
     ├── gptapt-ipynb   # GPT Jupyter notebook for experiments, typically closed-source, enterprise LLM. You will need to have an API key (key.txt) for experiments.
     ├── tinyllama.ipynb  # TinyLlama Jupyter notebook for experiments, open-source LLM. You can download the model weights and do local testing.
+    ├── Licence and legal declaration  # CC BY 4.0 but with imporant Declaration
     └── README.md
 
 
