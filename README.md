@@ -280,7 +280,7 @@ The users question is this: {question}
 - **Steps:**
   1. Click on "Create Database."
   2. Select "Serverless Vector Database."
-  3. Name your database (e.g., "LangFlowTutorial").
+  3. Name your database (e.g., " you can directly use our H&PS LangFlow").
   4. Choose your cloud provider and region.
   5. Click "Create Database."
 
