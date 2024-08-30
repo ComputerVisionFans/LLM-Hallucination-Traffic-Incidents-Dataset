@@ -128,6 +128,11 @@ Ongoing XAI Project with targeting of exploring llm hallucination problem
 
 # RAG Ablation Study
 
+<p align="center">
+  <img alt="H&PS Hallucination Traffic Incidents Dataset" style="width: 728px; max-width: 100%; height: auto;" src="webfile/RAG.png"/>
+  <p align="center"><b>🌟LangFlow and Vector Store RAG With our Dataset as Context Embedding + Spatio/ Temporal Query Embedding 🌟</h1> 
+ </b></p>
+
 ```
 
 | Category           | Prompt/Questions                                                                                      | GPT 4 Response | RAG embedded GPT-4 
