@@ -126,4 +126,194 @@ Ongoing XAI Project with targeting of exploring llm hallucination problem
 
 - Opensource LLama model: https://github.com/jzhang38/TinyLlama/blob/main/EVAL.md
 
+# RAG Ablation Study
+
+```
+
+| Category           | Prompt/Questions                                                                                      | GPT 4 Response | RAG embedded GPT-4 
+|--------------------|------------------------------------------------------------------------------------------------------|----------------| ----------------
+| **Space**          | From Schloss Schönbrunn to Musikverein Wien on 21st Nov 2023, am my trip affected?                    | ✓              | x
+|                    | From Haus des Meeres to U-Bahn-Station Roßauer Lände on 21st Nov 2023, am my trip affected?           | ~              | x
+|                    | From Theater in der Josefstadt to Naturhistorisches Museum Wien on 19th September 2023, am my trip affected? | ~          | x 
+|                    | From Museum für angewandte Kunst to Wiener Kriminalmuseum on 19th September 2023, am my trip affected? | ✓             | x 
+| **Time**           | List of disruption causes per hour?                                                                   | ✓              |  ✗
+|                    | Lines with most disruptions during peak hours?                                                        | ✗              |  ✓
+|                    | Time spans with most disruptions?                                                                     | ✗              | ~
+|                    | First and last disruption of the year?                                                                | ✗              |  ✓
+|                    | 3 disruptions with the greatest impact?                                                               | ✗              |  ~
+|                    | 3 events with the longest duration?                                                                   | ✓              |  ✗
+|                    | The average duration of all events?                                                                   | ✓              | ✗
+|                    | All events starting between 6 AM and 6 PM                                                             | ✗              | ✗
+|                    | All 'Long events' and their average duration                                                          | ✗              | ✗
+|                    | The total duration of events by time of day?                                                          | ✗              | ✗
+
+
+| Question  (selective)                                     | RAG OUTPUT sample                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Average duration of all events                 | "To calculate the average duration of all events, we need to determine the duration for each event from the provided context. Identify the events: Each event has a start time and, where applicable, an estimated end time or an indication of how long it lasts. Calculate the duration of each event: For events with a specified end time, subtract the start time from the end time. For those with a duration stated (like ""until X"" or ""lasts until X""), use that information to calculate the duration. Convert the duration to a consistent unit: For this calculation, we can convert all durations to minutes. Average the durations: Sum all the durations and divide by the total number of events. However, since the detailed calculation requires processing each event, I can provide a general outline of how you would do this, but I cannot compute the exact average without all the specific durations calculated from the data provided. If you need further assistance in calculating this or need a specific approach, please let me know!" |
+| 3 disruptions with the greatest impact?        | "Based on the provided context, the three disruptions with the greatest impact are: U3: Polizeieinsatz - The U3 line in the direction of Simmering is unable to proceed due to a police operation at the Landstraße S U station, with no estimated end time. 40A: Falschparker - The 40A line is hindered in the direction of Döblinger Friedhof due to a parked vehicle in the Sechsschimmelgasse area, with an expected disruption until 13:15. 40 , 41: Falschparker - Both the 40 and 41 lines are blocked in the direction of Gersthof and Pötzleinsdorf due to a parked vehicle in the Gentzgasse area, with an expected disruption until 12:45. These disruptions are significant as they involve major lines and ongoing police actions, which tend to affect larger numbers of passengers." |
+| Total duration of events by time of day        | "To calculate the total duration of events by time of day, we need to extract the start and end times from the provided context and determine the duration of each event. Here's a breakdown of the events along with their respective durations: 40A: Falschparker Start: 12:46:57 End: 13:15:00 (assumed based on the duration stated) Duration: 28 minutes U3: Polizeieinsatz Start: 12:26:12 Duration: Unknown (stated as not foreseeable) 40 , 41: Falschparker Start: 12:20:54 End: 12:45:00 (assumed based on the duration stated) Duration: 24 minutes U6: Betriebsstörung Start: 12:11:12 End: 12:26:02 Duration: 15 minutes 44: Schadhaftes Fahrzeug Start: 12:02:47 End: 12:30:00 (assumed based on the duration stated) Duration: 27 minutes 66A: Rettungseinsatz Start: 11:27:16 End: 11:30:00 (assumed based on the duration stated) Duration: 3 minutes U3: Schadhaftes Fahrzeug Start: 10:51:03 End: 12:25:01 Duration: 94 minutes 10: Feuerwehreinsatz Start: 10:08:10 End: 10:40:00 (assumed based on the duration stated) Duration: 32 minutes 12A: Schadhaftes Fahrzeug Start: 10:02:33 End: 10:36:00 (assumed based on the duration stated) Duration: 34 minutes O: Demonstration Start: 09:55:25 End: 10:30:00 (assumed based on the duration stated) Duration: 35 minutes ... and so forth for each event listed. The total duration of events can be calculated by summing the durations of all events that have an explicit duration. For events without a clear end time, we cannot contribute to the total. To summarize, if we were to categorize all of them by hour and add the durations, we would have a total duration of the events per hour. Finally, the results would look something like this: 09:00 - 10:00: Total Duration = X minutes 10:00 - 11:00: Total Duration = Y minutes 11:00 - 12:00: Total Duration = Z minutes 12:00 - 13:00: Total Duration = W minutes You would need to sum all the durations for each time slot accordingly." |
+| Time spans with most disruptions               | "Based on the provided context, the time spans with the most disruptions can be identified as follows: 12:00 PM - 1:00 PM (UTC+1): Multiple disruptions affecting lines 40A, U3, and 41 due to various issues including false parking and police actions. 11:00 AM - 12:00 PM (UTC+1): Disruptions noted for lines U3, 66A, and 44, including police actions and faulty vehicles. 10:00 AM - 11:00 AM (UTC+1): Multiple incidents including police actions affecting lines O and U3, along with disruptions on lines 10, 12A, and 66A. These time spans indicate periods where multiple transit lines experienced significant service interruptions due to various incidents." |
+| Lines with most disruptions during peak hours  | "Based on the provided context, here are the lines with the most disruptions during peak hours (which typically include busy times such as mornings and late afternoons): U3: This line has multiple disruptions due to police activity, a faulty vehicle, and irregular service noted on several occasions. U4: There are numerous mentions of disruptions due to rescue operations and faulty vehicles impacting service. 10: This line has faced disruptions due to both a fire department operation and a traffic accident. 43: This line has been affected by police interventions and traffic accidents, leading to service interruptions. 40A: This line has seen disruptions due to parking violations and traffic congestion. 49: This line has been impacted by traffic accidents causing delays. 2: This line has experienced several disruptions from rescue operations and vehicle issues. These lines have shown a pattern of disturbances during peak hours, making them significant in terms of service reliability." |
+| First and last disruption of the year          | "The first disruption of the year was on January 1, 2023, with a title related to a 'Falschparker' (wrongfully parked vehicle) affecting the line 5. The last disruption recorded was on November 21, 2023, involving a 'Falschparker' that hindered the line 40A, expected to last until 13:15." |
+
+
+
+```
+## Setup/Installation LangFlow
+
+
+### Install LangFlow using pip. Ensure you have [Python 3.10](https://www.python.org/downloads/) or above installed.
+
+- **Command to check Python version:**
+
+```bash
+python --version
+```
+
+or
+
+```bash
+python3 --version
+```
+
+- **If Python is not installed:**
+  - **Download and install it from** [python.org](https://www.python.org/).
+  - **Open your terminal and run the following command:**
+
+```bash
+pip install langflow --pre --force-reinstall
+```
+
+**Explanation:**
+
+- `pip install` is the command to install Python packages.
+- `langflow` is the name of the package.
+- `--pre` allows the installation of pre-release versions.
+- `--force-reinstall` forces the reinstallation of the package even if it's already installed.
+
+### Run LangFlow locally.
+
+- **Command to run LangFlow:**
+
+```bash
+langflow run 
+```
+- **Open LangFlow in your browser:**
+  - Navigate to `http://localhost:7860` if it doesn't open automatically.
+  - Can also insert our H&PS langflow Json
+
+### Create a new flow.
+
+- **Steps:**
+  1. Click "New Project."
+  2. Select "Blank Flow."
+
+### Add text and chat inputs:
+
+1. **From the sidebar, drag and drop the "Text Input" and "Chat Input" components.**
+2. **Rename "Text Input" to "Name":**
+   * Set it to capture the user's name.
+3. **Connect the output of "Name" to the sender name input of "Chat Input."**
+
+### Create a prompt template:
+
+1. **Add a "Prompt" component.**
+2. **Edit the template to include placeholders for context, question, and history:**
+
+```markdown
+Hey, answer the user's question based on the following context:
+The context is this: {context}
+And this is the message History: {history}
+The users question is this: {question}
+```
+
+### Add chat memory:
+
+1. **Drag and drop the "Chat Memory" component.**
+2. **Connect the name input to the session ID of the chat memory.**
+
+### Add a chat output:
+
+1. **Drag and drop the "Chat Output" component.**
+2. **Connect the output of the OpenAI component to the chat output.**
+3. **Set the sender name to "AI."**
+   
+---
+
+## OpenAI Integration
+
+### Create an OpenAI account.
+
+- **Sign up at** [OpenAI](https://platform.openai.com/).
+
+### Generate an OpenAI API key.
+
+- **Steps:**
+  1. Go to API keys in your OpenAI dashboard.
+  2. Click "Create new secret key."
+  3. Name the key to LangFlow-API (Makes things easier if you use more than one OpenAI API key)
+  4. Give it access to everything.
+  5. Copy the generated key.
+
+### Connect to OpenAI:
+
+1. **Add an "OpenAI" component.**
+2. **Name it OpenAI_Key_New.**
+3. **Paste your OpenAI API key in the Value field (Box).**
+4. **Make the 'Type' Credential.**
+5. **Click Save Variable.**
+6. **Drag the Chat Output from the menu and drag it to the left of OpenAI and place it beside.**
+7. **Drag and link the connection from OpenAI 'text' to the Chat Output 'Message'.**
+8. **Connect the prompt to the OpenAI component.**
+
+---
+
+## VectorStore Databases
+
+### Create a free account on DataStax Astra.
+
+- **Go to** [DataStax Astra](https://dtsx.io/3vZk6n2) **and sign up.**
+
+### Create a new database.
+
+- **Steps:**
+  1. Click on "Create Database."
+  2. Select "Serverless Vector Database."
+  3. Name your database (e.g., "LangFlowTutorial").
+  4. Choose your cloud provider and region.
+  5. Click "Create Database."
+
+### Configure Astra DB:
+
+1. **Add an "Astra DB" component.**
+2. **Enter your Astra DB endpoint, token, and collection name.**
+3. **Connect the embeddings to the Astra DB component.**
+
+---
+
+## Adding RAG
+
+### Load the Dataset file:
+
+1. **Add a "File Loader" component.**
+2. **Upload your Json file (e.g., monthly or Yearly dataset).**
+
+### Split the text:
+
+1. **Add a "Split Text" component.**
+2. **Connect the file loader to the split text component.**
+
+### Set up OpenAI embeddings:
+
+1. **Add an "OpenAI Embeddings" component.**
+2. **Connect the split text output to the embeddings input.**
+
+### Add a Vector Search component:
+
+1. **Connect the chat input to the Vector Search component.**
+2. **Connect the embeddings to the Vector Search component.**
+3. **Connect the output of the Vector Search component to the prompt context input.**
+
+
 
