@@ -18,7 +18,7 @@
 > +⭐ Follow [Authors]((https://qiangli.de/)) for project updates.
 
 > +⭐ 08th Sep. News:
-You can now access our dataset using [Google Cloud Storage](https://www.python.org/downloads/) as well! if you want to utilize our data with [LlamaIndex Vertex AI for RAG](https://cloud.google.com/vertex-ai/generative-ai/docs/use-feature-store-with-rag/)!
+You can now access our dataset using [Google Cloud Storage](https://storage.googleapis.com/ragwg/Wiener_2023.txt) as well! if you want to utilize our data with [LlamaIndex Vertex AI for RAG](https://cloud.google.com/vertex-ai/generative-ai/docs/use-feature-store-with-rag/)!
 
 
 **Website:** [H&PS Hallucination Traffic Incidents Dataset](https://sites.google.com/view/llmhallucination/home)
