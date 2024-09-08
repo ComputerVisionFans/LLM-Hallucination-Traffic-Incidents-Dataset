@@ -129,7 +129,7 @@ Ongoing XAI Project with targeting of exploring llm hallucination problem
 
 - Opensource LLama model: https://github.com/jzhang38/TinyLlama/blob/main/EVAL.md
 
-# RAG Ablation Study
+# RAG Ablation Study (Support Vertex AI and OpenAI both)
 
 <p align="center">
   <img alt="H&PS Hallucination Traffic Incidents Dataset" style="width: 728px; max-width: 100%; height: auto;" src="webfile/RAG.png"/>
