@@ -17,6 +17,9 @@
 
 > +⭐ Follow [Authors]((https://qiangli.de/)) for project updates.
 
+> +⭐ 08th Sep. News:
+Latest News: You can now access our dataset using [Google Cloud Storage](https://www.python.org/downloads/) as well! if you want to utilize our data with [LlamaIndex Vertex AI for RAG](https://cloud.google.com/vertex-ai/generative-ai/docs/use-feature-store-with-rag/)!
+
 
 **Website:** [H&PS Hallucination Traffic Incidents Dataset](https://sites.google.com/view/llmhallucination/home)
 
@@ -162,9 +165,10 @@ Ongoing XAI Project with targeting of exploring llm hallucination problem
 | Lines with most disruptions during peak hours  | "Based on the provided context, here are the lines with the most disruptions during peak hours (which typically include busy times such as mornings and late afternoons): U3: This line has multiple disruptions due to police activity, a faulty vehicle, and irregular service noted on several occasions. U4: There are numerous mentions of disruptions due to rescue operations and faulty vehicles impacting service. 10: This line has faced disruptions due to both a fire department operation and a traffic accident. 43: This line has been affected by police interventions and traffic accidents, leading to service interruptions. 40A: This line has seen disruptions due to parking violations and traffic congestion. 49: This line has been impacted by traffic accidents causing delays. 2: This line has experienced several disruptions from rescue operations and vehicle issues. These lines have shown a pattern of disturbances during peak hours, making them significant in terms of service reliability." |
 | First and last disruption of the year          | "The first disruption of the year was on January 1, 2023, with a title related to a 'Falschparker' (wrongfully parked vehicle) affecting the line 5. The last disruption recorded was on November 21, 2023, involving a 'Falschparker' that hindered the line 40A, expected to last until 13:15." |
 
-
-
 ```
+
+
+
 ## Setup/Installation LangFlow
 
 
