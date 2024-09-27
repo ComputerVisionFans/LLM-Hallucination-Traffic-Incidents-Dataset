@@ -3,7 +3,7 @@
 
 <p align="center">
   <img alt="H&PS Hallucination Traffic Incidents Dataset" style="width: 728px; max-width: 100%; height: auto;" src="webfile/Dataset.png"/>
-  <h1 align="center">🌟H&PS Hallucination Traffic Incidents Dataset  🌟</h1> 
+  <h1 align="center">🌟H&PS Hallucination Traffic Incidents Dataset🌟</h1> 
   <p align="center"><b>A novel cross-lingual benchmark dataset comprising nearly 99,869 real traffic incident records from Vienna (2013-2023) to evaluate LLMs’  Spatio and Temproal robustness as multilingual agents for hallucination problem
 </b></p>
 
@@ -12,10 +12,10 @@
 [![License](https://img.shields.io/badge/license-CCBY.4.0-black)](https://github.com/ComputerVisionFans/llm_hallucination)
 [![Downloads](https://img.shields.io/badge/Downloads-red)](https://github.com/ComputerVisionFans/llm_hallucination)
 [![Documentation](https://img.shields.io/badge/Read-Documentation-green)](https://sites.google.com/view/llmhallucination/home)
-[![Follow](https://img.shields.io/badge/Follow-Authors-blue)](https://qiangli.de/)
-[![Paper](https://img.shields.io/badge/Paper-yellow)](https://openreview.net/forum?id=iOuHlsKHf7#discussion)
 
-> +⭐ Follow [Authors]((https://qiangli.de/)) for project updates.
+
+
+
 
 > +⭐ 08th Sep. News:
 You can now access our dataset using [Google Cloud Storage](https://storage.googleapis.com/ragwg/Wiener_2023.txt) as well! if you want to utilize our data with [LlamaIndex Vertex AI for RAG](https://cloud.google.com/vertex-ai/generative-ai/docs/use-feature-store-with-rag/)!
@@ -103,19 +103,8 @@ The numbers in parentheses represent a hypothetical projection for the entire ye
 
 
 
-# Acknowledgement and Legal Declaration
-If you find this dataset useful in your research, please consider citing it. We extend our sincere thanks to those who contributed to our paper, helped significantly with the development of GenAI applications, dataset cleaning, and hypothesis brainstorming sessions:
-
-- Alam, Touhidul
-- Alikhanian, Aik
-- Grimm, Christine
-- Kirisits, Julia
-- Oh, Jung-Hyun
-- Stöhr, Stefan
-
-**_Special thanks_** go to Mingkun, Tan, and Martin Piskernig for their help with dataset queries and cleaning. We also thank Open Government Data (OGD) program in EU for academic research.
-
-This dataset, including our hypothesized data, **adheres to strict regulations for responsible AI**. _For any enterprise or researcher, using this dataset means taking intentional actions to design, deploy, and use it to create value and build trust by mitigating potential risks._
+# Legal Declaration
+If you find this dataset useful in your research, please consider citing it. We extend our sincere thanks to those who contributed to our paper, helped significantly with the development of GenAI applications, dataset cleaning, and hypothesis brainstorming sessions.
 
 We **strongly against** using this dataset for any kind of warfare or activities targeting human beings. We reserve the right to revoke or completely remove our dataset for such purposes and will not be responsible for any kind of loss resulting from such actions.
 
@@ -125,7 +114,7 @@ This dataset is intended to **encourage public thinking about how LLMs might res
 
 Ongoing XAI Project with targeting of exploring llm hallucination problem
 
-- Open_llm_leaderboard for select llm: https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard 
+- Open_LLM_leaderboard for select LLM: https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard 
 
 - Opensource LLama model: https://github.com/jzhang38/TinyLlama/blob/main/EVAL.md
 
