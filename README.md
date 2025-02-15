@@ -313,5 +313,17 @@ The users question is this: {question}
 2. **Connect the embeddings to the Vector Search component.**
 3. **Connect the output of the Vector Search component to the prompt context input.**
 
+# **Citation:**
+If you find our Dataset useful in your research, please consider citing:
+```
+@inproceedings{
+li2025how,
+title={How {LLM}s React to Industrial Spatio-Temporal Data? Assessing Hallucination with a Novel Traffic Incident Benchmark Dataset},
+author={Qiang Li and Mingkun Tan and Xun Zhao and Dan Zhang and Daoan Zhang and Shengzhao Lei and Anderson S. Chu and Lujun Li and Porawit Kamnoedboon},
+booktitle={2025 Annual Conference of the North American Chapter of the Association for Computational Linguistics Industry Track},
+year={2025},
+url={https://openreview.net/forum?id=gL5i5HUin1}
+}
+
 
 
