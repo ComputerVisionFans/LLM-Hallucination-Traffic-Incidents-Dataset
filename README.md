@@ -18,7 +18,7 @@
 
 
 > +⭐ 08th Sep. News:
-You can now access our dataset using [Google Cloud Storage](https://storage.googleapis.com/ragwg/Wiener_2023.txt) as well! if you want to utilize our data with [LlamaIndex Vertex AI for RAG](https://cloud.google.com/vertex-ai/generative-ai/docs/use-feature-store-with-rag/)!
+You can now access our dataset using [H&PS 2025](https://github.com/ComputerVisionFans/LLM-Hallucination-Traffic-Incidents-Dataset/tree/main/original) as well! you can also utilize our data with [LlamaIndex Vertex AI for RAG](https://cloud.google.com/vertex-ai/generative-ai/docs/use-feature-store-with-rag/)!
 
 
 **Website:** [H&PS Hallucination Traffic Incidents Dataset](https://sites.google.com/view/llmhallucination/home)
@@ -316,13 +316,29 @@ The users question is this: {question}
 # **Citation:**
 If you find our Dataset useful in your research, please consider citing:
 ```
-@inproceedings{
-li2025how,
-title={How {LLM}s React to Industrial Spatio-Temporal Data? Assessing Hallucination with a Novel Traffic Incident Benchmark Dataset},
-author={Qiang Li and Mingkun Tan and Xun Zhao and Dan Zhang and Daoan Zhang and Shengzhao Lei and Anderson S. Chu and Lujun Li and Porawit Kamnoedboon},
-booktitle={2025 Annual Conference of the North American Chapter of the Association for Computational Linguistics Industry Track},
-year={2025},
-url={https://openreview.net/forum?id=gL5i5HUin1}
+@inproceedings{li-etal-2025-llms,
+    title = "How {LLM}s React to Industrial Spatio-Temporal Data? Assessing Hallucination with a Novel Traffic Incident Benchmark Dataset",
+    author = "Li, Qiang  and
+      Tan, Mingkun  and
+      Zhao, Xun  and
+      Zhang, Dan  and
+      Zhang, Daoan  and
+      Lei, Shengzhao  and
+      Chu, Anderson S.  and
+      Li, Lujun  and
+      Kamnoedboon, Porawit",
+    editor = "Chen, Weizhu  and
+      Yang, Yi  and
+      Kachuee, Mohammad  and
+      Fu, Xue-Yong",
+    booktitle = "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 3: Industry Track)",
+    month = apr,
+    year = "2025",
+    address = "Albuquerque, New Mexico",
+    publisher = "Association for Computational Linguistics",
+    doi = "10.18653/v1/2025.naacl-industry.4",
+    pages = "36--53",
+    ISBN = "979-8-89176-194-0"
 }
 
 
